@@ -1,0 +1,121 @@
+[apply]
+	whitespace = nowarn
+[user]
+	name = Michele Baldessari
+	email = michele@acksyn.org
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = auto
+	interactive = auto
+
+[push]
+	default = matching
+
+[core]
+	editor = nvim
+	pager = delta
+  #	abbrev = 12
+
+[delta]
+	# https://dandavison.github.io/delta/configuration.html
+	hyperlinks = true
+	line-numbers = true
+	navigate = true
+	syntax-theme = Monokai Extended
+	side-by-side = true
+
+[diff]
+  colorMoved = default
+
+[interactive]
+  diffFilter = delta --color-only
+
+[merge]
+  conflictStyle = zdiff3
+
+[alias]
+	ap = !clear && git add --patch
+	br = !git --no-pager branch -vv
+	bra = branch -avv
+	cat = !cat @
+	ci = commit
+	cma = commit --verbose --amend
+	co = checkout
+	csv = log --pretty=format:'\"%h\"\\%s\\%ci\\%an <%ae>' --no-abbrev-commit --date=relative
+	cp = cherry-pick
+	dc = !clear && git diff --cached
+	diverges = !bash -c 'diff -u <(git rev-list --first-parent "${1}") <(git rev-list --first-parent "${2:-HEAD}") | sed -ne \"s/^ //p\" | head -1' -
+	ds = diff --stat
+	df = diff
+  dft = difftool
+	find-merge = "!sh -c 'commit=$0 && branch=${1:-HEAD} && (git rev-list $commit..$branch --ancestry-path | cat -n; git rev-list $commit..$branch --first-parent | cat -n) | sort -k2 -s | uniq -f1 -d | sort -n | tail -1 | cut -f2'"
+    dlog = "!f() { GIT_EXTERNAL_DIFF=difft git log -p --ext-diff $@; }; f"
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	ls = ls-files
+	ls-subtrees = !"for i in $(git log | grep git-subtree-dir | sed -e 's/^.*: //g' | uniq); do test -d $i && echo $i; done"
+	lg = log --pretty=format:'%Cred%h%Creset - %Cgreen(%ci) %C(yellow)%d%Creset %s %C(bold blue)<%an>%Creset' --no-abbrev-commit --date=relative
+	rb = rebase
+	rbc = rebase --continue
+	rbi = rebase --interactive
+	rmv = remote --verbose
+	sh = show
+	show-merge = "!sh -c 'merge=$(git find-merge $0 $1) && [ -n \"$merge\" ] && git show $merge'"
+	st = status
+	sw = switch
+	up = !sh -c 'git pull --rebase --prune && git log --pretty=format:\"%Cred%ae %Creset- %C(yellow)%s %Creset(%ar)\" HEAD@{1}..'
+	upstream-branch = status -sb
+	wt = worktree
+	wtl = worktree list
+	staash = stash --all
+	bb = !better-git-branch.sh
+
+[sendemail "acksyn"]
+	smtpserver = /usr/bin/msmtp
+	smtpserveroption = -C/home/michele/private/.msmtprc
+	smtpserveroption = -aacksyn
+	from = Michele Baldessari <michele@acksyn.org>
+	suppress-cc = author
+	confirm = always
+
+[sendemail "rh"]
+	smtpserver = /usr/bin/msmtp
+	smtpserveroption = -C/home/michele/private/.msmtprc
+	smtpserveroption = -arh
+	from = Michele Baldessari <michele@redhat.com>
+	suppress-cc = author
+	confirm = always
+
+[gitreview]
+	username = michele
+
+[diff]
+  tool = difftastic
+	renamelimit = 2000
+	renames = true
+
+[difftool]
+    prompt = false
+
+[difftool "difftastic"]
+    cmd = difft "$LOCAL" "$REMOTE"
+
+[pager]
+    difftool = true
+	color = true
+
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
+	templateDir = /home/michele/.git-template
+[sequence]
+	editor = interactive-rebase-tool
+[rh-pre-commit]
+	enableLocalConfig = false
+	checkSecrets = true
+[branch]
+	sort = -committerdate
