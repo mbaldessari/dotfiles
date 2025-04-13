@@ -1,0 +1,6 @@
+xkb_symbols "basic" {
+    include "us"
+    name[Group1] = "Bandini (Custom)";
+
+    key <CAPS> { [ F21 ] };
+};
