@@ -34,3 +34,14 @@ opacity = 0.97
 [window.padding]
 x = 0
 y = 0
+
+[keyboard]
+bindings = [
+  # Use xkb to remap Caps lock to F21 and emit a unicode PUA sequence
+  # xkb_symbols "basic" {
+  #   include "us"
+  #   name[Group1] = "Bandini (Custom)";
+  #   key <CAPS> { [ F21 ] };
+  # };
+  { key = "F21", mods = "Control", chars = "\uE000" },
+]
