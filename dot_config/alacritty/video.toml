@@ -1,0 +1,38 @@
+[colors.primary]
+background = "#f8f8f8"
+color0 = "#000000"
+color1 = "#de3d35"
+color10 = "#3e953a"
+color11 = "#d2b67b"
+color12 = "#2f5af3"
+color13 = "#a00095"
+color14 = "#3e953a"
+color15 = "#ffffff"
+color2 = "#3e953a"
+color3 = "#d2b67b"
+color4 = "#2f5af3"
+color5 = "#950095"
+color6 = "#3e953a"
+color7 = "#bbbbbb"
+color8 = "#000000"
+color9 = "#de3d35"
+cursor = "#bbbbbb"
+foreground = "#101010"
+selection_background = "#ececec"
+selection_foreground = "#f8f8f8"
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 22
+
+[font.normal]
+family = "Monospace"
+
+[window]
+dynamic_padding = false
+
+[window.padding]
+x = 0
+y = 0
