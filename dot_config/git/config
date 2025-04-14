@@ -24,7 +24,7 @@
 	hyperlinks = true
 	line-numbers = true
 	navigate = true
-	syntax-theme = Monokai Extended
+	syntax-theme = Dracula
 	side-by-side = true
 
 [diff]
