@@ -1,0 +1,62 @@
+# ~/.tmuxinator/mail.yml
+
+session_name: sysadmin
+
+# Optional tmux socket
+# socket_name: foo
+
+# Runs before everything. Use it to start daemons etc.
+# pre: sudo /etc/rc.d/mysqld start
+
+# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+# pre_window: rbenv shell 2.0.0-p247
+
+# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# tmux_options: -f ~/.tmux.mac.conf
+
+# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# tmux_command: byobu
+
+# Specifies (by name or index) which window will be selected on project startup. If not set, the first window is used.
+startup_window: sysadmin
+
+# Controls whether the tmux session should be attached to automatically. Defaults to true.
+# attach: false
+
+# Runs after everything. Use it to attach to tmux with custom options etc.
+# post: tmux -CC attach -t mail
+
+windows:
+  - window_name: sysadmin
+    layout: tiled
+    panes:
+      - shell_command:
+        - ssh acksyn-mail
+      - shell_command:
+        - ssh acksyn-web
+      - shell_command:
+        - ssh acksyn-chat
+      - shell_command:
+        - ssh acksyn-experimental
+      # - shell_command:
+      #   - ssh acksyn-minecraft
+  - window_name: mail
+    panes:
+      - shell_command:
+        - ssh acksyn-mail
+  - window_name: web
+    panes:
+      - shell_command:
+        - ssh acksyn-web
+  - window_name: chat
+    panes:
+      - shell_command:
+        - ssh acksyn-chat
+  - window_name: experimental
+    panes:
+      - shell_command:
+        - ssh acksyn-experimental
+  # - window_name: minecraft
+  #   panes:
+  #     - shell_command:
+  #       - ssh acksyn-minecraft

@@ -1,0 +1,64 @@
+# ~/.tmuxinator/mail.yml
+
+session_name: aws
+
+# Optional tmux socket
+# socket_name: foo
+
+# Runs before everything. Use it to start daemons etc.
+# pre: sudo /etc/rc.d/mysqld start
+
+# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+# pre_window: rbenv shell 2.0.0-p247
+
+# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# tmux_options: -f ~/.tmux.mac.conf
+
+# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# tmux_command: byobu
+
+# Specifies (by name or index) which window will be selected on project startup. If not set, the first window is used.
+startup_window: install
+
+# Controls whether the tmux session should be attached to automatically. Defaults to true.
+# attach: false
+
+# Runs after everything. Use it to attach to tmux with custom options etc.
+# post: tmux -CC attach -t mail
+
+windows:
+  - window_name: install
+    layout: tiled
+    panes:
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/hub
+      - tail -f ~/Engineering/Labs/hub-region-aws/hub/.openshift_install.log
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region
+      - tail -f ~/Engineering/Labs/hub-region-aws/region/.openshift_install.log
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region2
+      - tail -f ~/Engineering/Labs/hub-region-aws/region2/.openshift_install.log
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region3
+      - tail -f ~/Engineering/Labs/hub-region-aws/region3/.openshift_install.log
+  - window_name: hub
+    panes:
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/hub
+        - export KUBECONFIG=/home/michele/Engineering/Labs/hub-region-aws/hub/auth/kubeconfig
+  - window_name: region
+    panes:
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region
+        - export KUBECONFIG=/home/michele/Engineering/Labs/hub-region-aws/region/auth/kubeconfig
+  - window_name: region2
+    panes:
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region2
+        - export KUBECONFIG=/home/michele/Engineering/Labs/hub-region-aws/region2/auth/kubeconfig
+  - window_name: region3
+    panes:
+      - shell_command:
+        - cd ~/Engineering/Labs/hub-region-aws/region3
+        - export KUBECONFIG=/home/michele/Engineering/Labs/hub-region-aws/region3/auth/kubeconfig

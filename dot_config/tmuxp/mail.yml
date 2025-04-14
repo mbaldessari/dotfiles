@@ -1,0 +1,47 @@
+# ~/.tmuxinator/mail.yml
+
+session_name: mail
+
+# Optional tmux socket
+# socket_name: foo
+
+# Runs before everything. Use it to start daemons etc.
+# pre: sudo /etc/rc.d/mysqld start
+
+# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+# pre_window: rbenv shell 2.0.0-p247
+
+# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# tmux_options: -f ~/.tmux.mac.conf
+
+# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# tmux_command: byobu
+
+# Specifies (by name or index) which window will be selected on project startup. If not set, the first window is used.
+startup_window: acksyn
+
+# Controls whether the tmux session should be attached to automatically. Defaults to true.
+# attach: false
+
+# Runs after everything. Use it to attach to tmux with custom options etc.
+# post: tmux -CC attach -t mail
+
+windows:
+  - window_name: offlineimap
+    layout: main-horizontal
+    # shell_command_before:
+    #   - cd ~/
+    panes:
+      - shell_command:
+        - for i in $(seq 8); do echo $i; offlineimap -a acksyn; sleep 3600; done
+      - shell_command:
+        - for i in $(seq 100); do echo $i; offlineimap -a rhgmail; sleep 600; done
+  - window_name: acksyn
+    panes:
+      - mutt -F ~/.mutt/acksyn.account
+  - window_name: rh
+    panes:
+      - mutt -F ~/.mutt/rhgmail.account
+  - window_name: cmd
+    panes:
+      - date
