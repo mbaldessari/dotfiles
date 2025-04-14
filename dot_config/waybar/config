@@ -1,0 +1,294 @@
+[{
+	"layer": "top", // Waybar at top layer
+	"output": "DP-2",
+	"position": "bottom", // Waybar position (top|bottom|left|right)
+	// "height": 24, // Waybar height (to be removed for auto height)
+	// "width": 1280, // Waybar width
+
+	// Choose the order of the modules
+	"modules-left": ["sway/workspaces", "custom/arrow10", "sway/mode"],
+	"modules-center": ["sway/window"],
+	"modules-right": [
+    "custom/arrow1",
+	  "custom/disk_home", 
+	  "custom/disk_root",
+    "custom/arrow2",
+    "cpu",
+    "custom/arrow3",
+    "memory",
+    "custom/arrow4",
+    "pulseaudio",
+    "custom/arrow5",
+    "custom/weather",
+    "clock#date",
+    "clock#time"],
+
+	// Modules configuration
+	"sway/workspaces": {
+		"disable-scroll": true,
+		"all-outputs": false,
+		"format": "{icon}",
+		"format-icons": {
+			"1: mail": "✉",
+			"2: chat": "",
+			"3: work1": "",
+			"4: work2": "W1",
+			"5: work3": "W2",
+			"6: work4": "W3",
+			"7: work5": "W4",
+			"8: home1": "H1",
+			"9: home2": "H2",
+			"10: music": "",
+			"urgent": "",
+			//"focused": "",
+			"default": ""
+		}
+	},
+	"sway/mode": {
+		"format": "{}"
+	},
+	"custom/disk_home": {
+		"format": "/:{} ",
+		"interval": 60,
+		"exec": "df -h --output=avail $HOME | tail -1 | tr -d ' '"
+	},
+	"custom/disk_root": {
+		"format": "/HOME:{} ",
+		"interval": 60,
+		"exec": "df -h --output=avail / | tail -1 | tr -d ' '"
+	},
+	"clock#time": {
+		"interval": 10,
+		"format": "{:%H:%M}",
+		"tooltip": false
+	},
+
+	"clock#date": {
+		"interval": 20,
+		"format": "{:%a %e %b %Y}", // Icon: calendar-alt
+		//"tooltip-format": "{:%a %e %B %Y}"
+		"tooltip": false
+	},
+
+	"cpu": {
+		"format": "CPU {usage}%",
+		"tooltip": false
+	},
+	"memory": {
+		"format": "MEM {used:0.1f}G"
+	},
+	"pulseaudio": {
+		// "scroll-step": 1, // %, can be a float
+		"format": "{icon} {volume}%",
+		"format-muted": "🔇",
+		"format-bluetooth": "{icon} {volume}% {format_source}",
+		"format-bluetooth-muted": "🔇 {format_source}",
+
+		"format-source": " {volume}%",
+		"format-source-muted": "",
+
+		"format-icons": {
+			"headphones": "",
+			"handsfree": "",
+			"headset": "",
+			"phone": "",
+			"portable": "",
+			"car": "",
+			"default": ["🔈", "🔉", "🔊"]
+		},
+	  "on-click-right": "pavucontrol",
+	  "on-click-middle": "exec pactl set-sink-mute @DEFAULT_SINK@ toggle"
+	},
+	  "custom/weather": {
+      "format": "{}",
+      "format-alt": "{alt}: {}",
+      "format-alt-click": "click-right",
+      "interval": 1800,
+      "return-type": "json",
+      "exec": "~/.config/waybar/weather.sh",
+      "exec-if": "ping wttr.in -c1"
+  },
+	"custom/arrow1": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow2": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow3": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow4": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow5": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow6": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow7": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow8": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow9": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/arrow10": {
+		"format": "",
+		"tooltip": false
+	}
+},
+{
+	"layer": "top", // Waybar at top layer
+	"output": "DP-1",
+	"position": "bottom", // Waybar position (top|bottom|left|right)
+	// "height": 24, // Waybar height (to be removed for auto height)
+	// "width": 1280, // Waybar width
+
+	// Choose the order of the modules
+	"modules-left": ["sway/workspaces", "sway/mode"],
+	"modules-center": ["sway/window"],
+	"modules-right": [
+    "clock#date",
+    "clock#time"],
+	// Modules configuration
+	"clock#time": {
+		"interval": 10,
+		"format": "{:%H:%M %Z}",
+		"timezones": ["US/Mountain", "US/Central", "Australia/Melbourne"],
+		"tooltip": false
+	},
+	"clock#date": {
+		"interval": 20,
+		"format": "{:%a %e %b %Y}", // Icon: calendar-alt
+		//"tooltip-format": "{:%e %B %Y}"
+		"tooltip": false
+	},
+	"sway/workspaces": {
+		"disable-scroll": true,
+		"all-outputs": false,
+		"format": "{icon}",
+		"format-icons": {
+			"1: mail": "✉",
+			"2: chat": "",
+			"3: work1": "",
+			"4: work2": "W1",
+			"5: work3": "W2",
+			"6: work4": "W3",
+			"7: work5": "W4",
+			"8: home1": "H1",
+			"9: home2": "H2",
+			"10: music": "",
+			"urgent": "",
+			//"focused": "",
+			"default": ""
+		}
+	}
+},
+{
+	"layer": "bottom", // Waybar at top layer
+	"output": "HEADLESS-1",
+	"position": "bottom", // Waybar position (top|bottom|left|right)
+	// "height": 24, // Waybar height (to be removed for auto height)
+	// "width": 1280, // Waybar width
+
+	// Choose the order of the modules
+	"modules-left": ["sway/workspaces", "sway/mode"],
+	"modules-center": ["sway/window"],
+	"modules-right": [
+    "clock#date",
+    "clock#time",
+		"tray"],
+	// Modules configuration
+	"clock#time": {
+		"interval": 10,
+		"format": "{:%H:%M}",
+		"tooltip": false
+	},
+
+	"clock#date": {
+		"interval": 20,
+		"format": "{:%a %e %b %Y}", // Icon: calendar-alt
+		//"tooltip-format": "{:%e %B %Y}"
+		"tooltip": false
+	},
+	"sway/workspaces": {
+		"disable-scroll": true,
+		"all-outputs": false,
+		"format": "{icon}",
+		"format-icons": {
+			"1: mail": "✉",
+			"2: chat": "",
+			"3: work1": "",
+			"4: work2": "W1",
+			"5: work3": "W2",
+			"6: work4": "W3",
+			"7: work5": "W4",
+			"8: home1": "H1",
+			"9: home2": "H2",
+			"10: music": "",
+			"urgent": "",
+			//"focused": "",
+			"default": ""
+		}
+	}
+},
+{
+	"layer": "top", // Waybar at top layer
+	"output": "HDMI-A-1",
+	"position": "bottom", // Waybar position (top|bottom|left|right)
+	// "height": 24, // Waybar height (to be removed for auto height)
+	// "width": 1280, // Waybar width
+
+	// Choose the order of the modules
+	"modules-left": ["sway/workspaces", "sway/mode"],
+	"modules-center": ["sway/window"],
+	"modules-right": [
+    "clock#date",
+    "clock#time",
+		"tray"],
+	// Modules configuration
+	"clock#time": {
+		"interval": 10,
+		"format": "{:%H:%M}",
+		"tooltip": false
+	},
+
+	"clock#date": {
+		"interval": 20,
+		"format": "{:%a %e %b %Y}", // Icon: calendar-alt
+		//"tooltip-format": "{:%e %B %Y}"
+		"tooltip": false
+	},
+	"sway/workspaces": {
+		"disable-scroll": true,
+		"all-outputs": false,
+		"format": "{icon}",
+		"format-icons": {
+			"1: mail": "✉",
+			"2: chat": "",
+			"3: work1": "",
+			"4: work2": "W1",
+			"5: work3": "W2",
+			"6: work4": "W3",
+			"7: work5": "W4",
+			"8: home1": "H1",
+			"9: home2": "H2",
+			"10: music": "",
+			"urgent": "",
+			//"focused": "",
+			"default": ""
+		}
+	}
+}]
