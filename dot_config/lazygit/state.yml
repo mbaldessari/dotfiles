@@ -1,0 +1,19 @@
+lastupdatecheck: 0
+recentrepos:
+    - /tmp/lazygit
+    - /home/michele/Engineering/cloud-patterns/industrial-edge
+    - /home/michele/Engineering/cloud-patterns/common
+    - /home/michele/Engineering/cloud-patterns/patterns-operator
+    - /home/michele/Devel/kernel/upstream
+startuppopupversion: 5
+lastversion: 0.47.2
+customcommandshistory:
+    - nvim
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
