@@ -280,6 +280,7 @@ exec swayidle -w \
 
 exec swaymsg "workspace $workspace0; exec /home/michele/Bin/music.sh;"
 exec swaymsg "workspace $workspace1; exec /home/michele/Bin/blog.sh;"
+exec swaymsg "workspace $workspace1; exec pavucontrol;"
 #exec swaymsg "workspace $workspace1; exec /home/michele/Bin/email.sh;"
 exec swaymsg "workspace $workspace1; exec firefox -P RH;"
 #exec swaymsg "workspace $workspace2; exec /home/michele/Bin/irc.sh;"
