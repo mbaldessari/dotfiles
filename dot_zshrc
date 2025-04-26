@@ -119,7 +119,8 @@ alias more='less -F -X'
 alias less='less -F -X'
 alias sway="sway > /tmp/sway.log 2>&1"
 alias csrapprove="oc get csr -ojson | jq -r '.items[] | select(.status == {} ) | .metadata.name' | xargs --no-run-if-empty oc adm certificate approve"
-alias k='kubectl'
+#alias k='oc'
+alias lg="fzf --preview 'bat --style=numbers --color=always {} | grep --color=always -i \"search-term\"' --bind \"enter:execute(less {})\""
 alias vpgrep='grep -iR --exclude-dir="tests" --exclude-dir="vendor"'
 alias vp='cd ~/Engineering/cloud-patterns/'
 alias mcg='cd ~/Engineering/cloud-patterns/multicloud-gitops/'
