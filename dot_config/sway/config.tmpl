@@ -1,0 +1,7 @@
+{{- if eq .chezmoi.hostname "oshie" -}}
+{{-   include "dot_config/sway/config.oshie" -}}
+{{- else if eq .chezmoi.hostname "dubois" -}}
+{{-   include "dot_config/sway/config.dubois" -}}
+{{- else -}}
+# OPS
+{{- end -}}
