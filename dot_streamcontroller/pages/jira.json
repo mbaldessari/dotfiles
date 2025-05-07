@@ -1,0 +1,53 @@
+{
+    "keys": {
+        "0x0": {
+            "states": {
+                "0": {
+                    "media": {
+                        "path": "/home/michele/.streamcontroller/icons/com_axolotlmaid_FontAwesomeIcons/icons/white/arrow-left.svg"
+                    },
+                    "actions": [
+                        {
+                            "id": "com_core447_DeckPlugin::ChangePage",
+                            "settings": {
+                                "selected_page": "/home/michele/.streamcontroller/pages/start.json",
+                                "deck_number": null
+                            }
+                        }
+                    ],
+                    "image-control-action": 0,
+                    "label-control-actions": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "background-control-action": 0
+                }
+            }
+        },
+        "1x0": {
+            "states": {
+                "0": {
+                    "actions": [
+                        {
+                            "id": "com_core447_OSPlugin::RunCommand",
+                            "settings": {
+                                "command": "firefox -P RH https://issues.redhat.com/projects/OCPNAS/issues/OCPNAS-20?filter=allopenissues"
+                            }
+                        }
+                    ],
+                    "image-control-action": null,
+                    "label-control-actions": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "background-control-action": 0,
+                    "media": {
+                        "path": "/home/michele/.streamcontroller/icons/com_axolotlmaid_FontAwesomeIcons/icons/white/bugs.svg"
+                    }
+                }
+            }
+        }
+    }
+}

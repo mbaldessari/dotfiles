@@ -1,0 +1,11 @@
+{
+    "plugin.name": "Deck",
+    "actions.change-page.name": "Change Page",
+    "actions.go-to-sleep.name": "Go To Sleep",
+    "actions.set-brightness.name": "Set Brightness",
+    "actions.revert-brightness.name": "Revert Brightness",
+    "actions.adjust-brightness.name": "Adjust Brightness",
+    "actions.change-page.drop-down-label": "Page:",
+    "actions.set-brightness.label": "Brightness:",
+    "actions.change.page.deck-drop-down-label": "Deck:"
+}

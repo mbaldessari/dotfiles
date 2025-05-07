@@ -84,7 +84,7 @@ plugins=(
 
 # User configuration
 
-export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$HOME/Bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin"
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$HOME/Bin:$HOME/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin"
 export RIPGREP_CONFIG_PATH=~/.config/ripgreprc
 # export MANPATH="/usr/local/man:$MANPATH"
 

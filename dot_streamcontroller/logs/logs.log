@@ -1,0 +1,284 @@
+2025-05-06 18:09:27.814 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7efe59777f50>
+2025-05-06 18:09:27.815 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-06 18:09:27.816 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-06 18:09:27.824 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-06 18:09:44.257 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-06 18:09:44.259 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 06:35:53.634 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-07 06:35:53.639 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.001260519027709961 seconds
+2025-05-07 06:35:53.641 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-05-03T15:42:59.087204
+2025-05-07 06:35:54.188 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=45527
+2025-05-07 06:35:54.394 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-07 06:35:54.394 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003094673156738281 seconds
+2025-05-07 06:35:54.395 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-07 06:35:54.395 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0002980232238769531 seconds
+2025-05-07 06:35:54.398 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-07 06:35:54.399 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=33021
+2025-05-07 06:35:54.808 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-07 06:35:54.824 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-07 06:35:54.825 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-07 06:35:54.825 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-07 06:35:54.825 | INFO     | __main__:load:116 - Loading app
+2025-05-07 06:35:54.826 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-07 06:35:54.843 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-07 06:35:54.857 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-07 06:35:54.953 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-07 06:35:54.954 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 06:35:54.954 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-07 06:35:54.954 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-07 06:35:55.042 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-07 06:35:55.082 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 06:35:55.151 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.020331382751464844 seconds
+2025-05-07 06:35:55.158 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-07 06:35:55.158 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-07 06:35:55.162 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.011349201202392578 seconds
+2025-05-07 06:35:55.348 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-07 06:35:55.908 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-07 06:35:56.147 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-07 06:35:56.182 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.3559789657592773 seconds
+2025-05-07 07:44:25.525 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-07 07:44:25.526 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-07 07:44:25.531 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-07 07:44:25.535 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 07:44:25.536 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-07 07:44:25.537 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-07 07:44:25.538 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.01 seconds
+2025-05-07 07:44:25.538 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-07 07:44:25.623 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 07:44:25.687 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.013319015502929688 seconds
+2025-05-07 07:44:25.839 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-07 07:44:25.868 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fe9c77c6ad0>
+2025-05-07 07:44:25.869 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-07 07:44:25.877 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009191274642944336 seconds
+2025-05-07 07:44:25.954 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-07 07:44:25.986 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 07:44:26.034 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.02552032470703125 seconds
+2025-05-07 07:44:26.058 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.02423262596130371 seconds
+2025-05-07 13:04:07.487 | ERROR    | threading:run:992 - An error has been caught in function 'run', process 'MainProcess' (2582), thread 'own_actions_tick' (140642923538112):
+Traceback (most recent call last):
+
+  File "/usr/lib64/python3.13/threading.py", line 1012, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7fea4f6a6ac0>
+    └ <Thread(own_actions_tick, started 140642923538112)>
+  File "/usr/lib64/python3.13/threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7fea4f6a6840>
+    └ <Thread(own_actions_tick, started 140642923538112)>
+> File "/usr/lib64/python3.13/threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(own_actions_tick, started 140642923538112)>
+    │    │        │    └ ()
+    │    │        └ <Thread(own_actions_tick, started 140642923538112)>
+    │    └ <bound method ControllerInputState.own_actions_tick of <src.backend.DeckManagement.DeckController.ControllerKeyState object a...
+    └ <Thread(own_actions_tick, started 140642923538112)>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/DeckController.py", line 1572, in own_actions_tick
+    action.on_tick()
+    │      └ <function ToggleRecord.on_tick at 0x7fe9eb20aac0>
+    └ <actions.ToggleRecord.ToggleRecord.ToggleRecord object at 0x7fe9c45ed7f0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/actions/ToggleRecord/ToggleRecord.py", line 83, in on_tick
+    self.show_current_rec_status()
+    │    └ <function ToggleRecord.show_current_rec_status at 0x7fe9eb20a8e0>
+    └ <actions.ToggleRecord.ToggleRecord.ToggleRecord object at 0x7fe9c45ed7f0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/actions/ToggleRecord/ToggleRecord.py", line 33, in show_current_rec_status
+    status = self.plugin_base.backend.get_record_status()
+             │    │           │       └ <function _make_method.<locals>.method at 0x7fe9ea928a40>
+             │    │           └ <__main__.Backend object at 0x7f5122db49b0>
+             │    └ <plugins.com_core447_OBSPlugin.main.OBS object at 0x7fe9eaab7cb0>
+             └ <actions.ToggleRecord.ToggleRecord.ToggleRecord object at 0x7fe9c45ed7f0>
+
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/netref.py", line 239, in __call__
+    return syncreq(_self, consts.HANDLE_CALL, args, kwargs)
+           │       │      │      │            │     └ ()
+           │       │      │      │            └ ()
+           │       │      │      └ 7
+           │       │      └ <module 'rpyc.core.consts' from '/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/consts....
+           │       └ <bound method Backend.get_record_status of <__main__.Backend object at 0x7f5122db49b0>>
+           └ <function syncreq at 0x7fe9ed5ba160>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/netref.py", line 63, in syncreq
+    return conn.sync_request(handler, proxy, *args)
+           │    │            │        │       └ ((), ())
+           │    │            │        └ <bound method Backend.get_record_status of <__main__.Backend object at 0x7f5122db49b0>>
+           │    │            └ 7
+           │    └ <function Connection.sync_request at 0x7fe9ece9c400>
+           └ <rpyc.core.protocol.Connection 'conn2' object at 0x7fe9eaaee710>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/protocol.py", line 744, in sync_request
+    return _async_res.value
+           │          └ <property object at 0x7fe9ed5dbc40>
+           └ <AsyncResult object (ready) at 0x7fe9ea726610>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/async_.py", line 111, in value
+    raise self._obj
+          │    └ <member '_obj' of 'AsyncResult' objects>
+          └ <AsyncResult object (ready) at 0x7fe9ea726610>
+
+_get_exception_class.<locals>.Derived: 'outputActive'
+
+========= Remote Traceback (1) =========
+Traceback (most recent call last):
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/lib64/python3.12/site-packages/rpyc/core/protocol.py", line 369, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/lib64/python3.12/site-packages/rpyc/core/protocol.py", line 863, in _handle_call
+    return obj(*args, **dict(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py", line 72, in get_record_status
+    "active": status.datain["outputActive"],
+              ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'outputActive'
+
+2025-05-07 13:04:07.491 | ERROR    | threading:run:992 - An error has been caught in function 'run', process 'MainProcess' (2582), thread 'own_actions_tick' (140643007432384):
+Traceback (most recent call last):
+
+  File "/usr/lib64/python3.13/threading.py", line 1012, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7fea4f6a6ac0>
+    └ <Thread(own_actions_tick, started 140643007432384)>
+  File "/usr/lib64/python3.13/threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7fea4f6a6840>
+    └ <Thread(own_actions_tick, started 140643007432384)>
+> File "/usr/lib64/python3.13/threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(own_actions_tick, started 140643007432384)>
+    │    │        │    └ ()
+    │    │        └ <Thread(own_actions_tick, started 140643007432384)>
+    │    └ <bound method ControllerInputState.own_actions_tick of <src.backend.DeckManagement.DeckController.ControllerKeyState object a...
+    └ <Thread(own_actions_tick, started 140643007432384)>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/DeckController.py", line 1572, in own_actions_tick
+    action.on_tick()
+    │      └ <function RecPlayPause.on_tick at 0x7fe9eb20b060>
+    └ <actions.RecPlayPause.RecPlayPause.RecPlayPause object at 0x7fe9c45ed940>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/actions/RecPlayPause/RecPlayPause.py", line 68, in on_tick
+    self.show_current_rec_status()
+    │    └ <function RecPlayPause.show_current_rec_status at 0x7fe9eb20ae80>
+    └ <actions.RecPlayPause.RecPlayPause.RecPlayPause object at 0x7fe9c45ed940>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/actions/RecPlayPause/RecPlayPause.py", line 28, in show_current_rec_status
+    status = self.plugin_base.backend.get_record_status()
+             │    │           │       └ <function _make_method.<locals>.method at 0x7fe9ea928a40>
+             │    │           └ <__main__.Backend object at 0x7f5122db49b0>
+             │    └ <plugins.com_core447_OBSPlugin.main.OBS object at 0x7fe9eaab7cb0>
+             └ <actions.RecPlayPause.RecPlayPause.RecPlayPause object at 0x7fe9c45ed940>
+
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/netref.py", line 239, in __call__
+    return syncreq(_self, consts.HANDLE_CALL, args, kwargs)
+           │       │      │      │            │     └ ()
+           │       │      │      │            └ ()
+           │       │      │      └ 7
+           │       │      └ <module 'rpyc.core.consts' from '/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/consts....
+           │       └ <bound method Backend.get_record_status of <__main__.Backend object at 0x7f5122db49b0>>
+           └ <function syncreq at 0x7fe9ed5ba160>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/netref.py", line 63, in syncreq
+    return conn.sync_request(handler, proxy, *args)
+           │    │            │        │       └ ((), ())
+           │    │            │        └ <bound method Backend.get_record_status of <__main__.Backend object at 0x7f5122db49b0>>
+           │    │            └ 7
+           │    └ <function Connection.sync_request at 0x7fe9ece9c400>
+           └ <rpyc.core.protocol.Connection 'conn2' object at 0x7fe9eaaee710>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/protocol.py", line 744, in sync_request
+    return _async_res.value
+           │          └ <property object at 0x7fe9ed5dbc40>
+           └ <AsyncResult object (ready) at 0x7fe9ea7252b0>
+  File "/home/michele/.virtualenvs/streamcontroller/lib64/python3.13/site-packages/rpyc/core/async_.py", line 111, in value
+    raise self._obj
+          │    └ <member '_obj' of 'AsyncResult' objects>
+          └ <AsyncResult object (ready) at 0x7fe9ea7252b0>
+
+_get_exception_class.<locals>.Derived: 'outputActive'
+
+========= Remote Traceback (1) =========
+Traceback (most recent call last):
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/lib64/python3.12/site-packages/rpyc/core/protocol.py", line 369, in _dispatch_request
+    res = self._HANDLERS[handler](self, *args)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/lib64/python3.12/site-packages/rpyc/core/protocol.py", line 863, in _handle_call
+    return obj(*args, **dict(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py", line 72, in get_record_status
+    "active": status.datain["outputActive"],
+              ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'outputActive'
+
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Exit with id com_core447_VolumeMixer::Exit
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-07 14:41:22.970 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Right with id com_core447_VolumeMixer::MoveRight
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Left with id com_core447_VolumeMixer::MoveLeft
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-07 14:41:22.971 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-07 14:41:22.971 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page VolumeMixer in 0.00 seconds
+2025-05-07 14:41:22.972 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-05-07 14:41:23.040 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 14:41:23.106 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.008495330810546875 seconds
+2025-05-07 14:41:23.127 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fe9c77c6850>
+2025-05-07 14:41:23.127 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-05-07 14:41:23.158 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-05-07 14:41:23.168 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009731054306030273 seconds
+2025-05-07 14:41:23.244 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-05-07 14:41:23.276 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 14:41:23.659 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.3505208492279053 seconds
+2025-05-07 14:41:23.676 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.016451358795166016 seconds
+2025-05-07 14:41:24.939 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-07 14:41:25.025 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-07 14:41:25.074 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 14:41:25.123 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fe9c77c6ad0>
+2025-05-07 14:41:25.123 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-07 14:41:25.145 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.022971391677856445 seconds
+2025-05-07 14:41:25.154 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009130716323852539 seconds
+2025-05-07 14:41:25.241 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140641522677440
+2025-05-07 14:41:25.278 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-07 14:41:25.331 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.052781105041503906 seconds
+2025-05-07 14:41:25.341 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009537935256958008 seconds
+2025-05-07 18:08:06.613 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea9385f0>
+2025-05-07 18:08:06.615 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 18:08:06.615 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:08:06.623 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:08:43.059 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:08:43.062 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:08:50.619 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:08:50.628 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:09:01.208 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea910450>
+2025-05-07 18:09:01.209 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Previous with id com_core447_MediaPlugin::Previous
+2025-05-07 18:09:01.219 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.01 seconds
+2025-05-07 18:09:01.220 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:10:34.725 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea9385f0>
+2025-05-07 18:10:34.726 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 18:10:34.727 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:10:34.734 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:10:57.025 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:10:57.029 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:11:36.165 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea9385f0>
+2025-05-07 18:11:36.166 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 18:11:36.167 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:11:36.174 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:11:53.354 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea9385f0>
+2025-05-07 18:11:53.356 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 18:11:53.356 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:11:53.364 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:13:51.525 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7fe9ea9385f0>
+2025-05-07 18:13:51.527 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-07 18:13:51.527 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:13:51.535 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:26:12.988 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-05-07 18:26:12.993 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds

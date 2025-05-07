@@ -1,0 +1,496 @@
+2025-05-03 15:42:59.080 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-03 15:42:59.084 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0009603500366210938 seconds
+2025-05-03 15:42:59.087 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-26T15:30:29.056809
+2025-05-03 15:42:59.609 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=33049
+2025-05-03 15:42:59.817 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-03 15:42:59.818 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003631114959716797 seconds
+2025-05-03 15:42:59.818 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-03 15:42:59.818 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00032901763916015625 seconds
+2025-05-03 15:42:59.824 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-03 15:42:59.824 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=34619
+2025-05-03 15:43:00.235 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-03 15:43:00.250 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-03 15:43:00.251 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-03 15:43:00.252 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-03 15:43:00.252 | INFO     | __main__:load:116 - Loading app
+2025-05-03 15:43:00.252 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-03 15:43:00.269 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-03 15:43:00.319 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-03 15:43:00.320 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-03 15:43:00.431 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-03 15:43:00.469 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-03 15:43:10.230 | INFO     | src.app:on_reopen:116 - awake
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_DeckPlugin.main.DeckPlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_MediaPlugin.main.MediaPlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_OBSPlugin.main.OBS'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_VolumeMixer.main.VolumeMixer'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Clocks.main.ClocksPlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_MicMute.main.MicMutePlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Requests.main.RequestsPlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Weather.main.WeatherPlugin'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.dev_eumario_WebSocket.main.PluginWebsocket'> because it's already initialized
+2025-05-03 15:43:21.138 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_OSPlugin.main.OSPlugin'> because it's already initialized
+2025-05-03 15:43:21.340 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_DeckPlugin.main.DeckPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_MediaPlugin.main.MediaPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_OBSPlugin.main.OBS'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_VolumeMixer.main.VolumeMixer'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Clocks.main.ClocksPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_MicMute.main.MicMutePlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Requests.main.RequestsPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_Weather.main.WeatherPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.dev_eumario_WebSocket.main.PluginWebsocket'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_OSPlugin.main.OSPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | INFO     | src.backend.PluginManager.PluginManager:init_plugins:66 - Skipping <class 'plugins.com_core447_OSPlugin.main.OSPlugin'> because it's already initialized
+2025-05-03 15:43:21.341 | SUCCESS  | src.backend.Store.StoreBackend:install_plugin:802 - Plugin com_core447_OSPlugin installed successfully under: /home/michele/.streamcontroller/plugins/com_core447_OSPlugin with sha: 65223b6a525b3be6d9d2f95cfe5175e3e291584a
+2025-05-03 15:43:21.341 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-03 15:43:24.796 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-03 15:43:25.867 | INFO     | __main__:update_assets:188 - Updating 1 store assets took 25.615216970443726 seconds
+2025-05-03 16:01:49.037 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/007 with info: {'ID_MODEL_ID': '0610', 'ID_MODEL': 'USB2.1_Hub', 'ID_MODEL_FROM_DATABASE': 'Hub', 'ID_VENDOR': 'GenesysLogic', 'ID_VENDOR_ID': '05e3', 'ID_VENDOR_FROM_DATABASE': 'Genesys Logic, Inc.', 'ID_USB_INTERFACES': ('090000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/007', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'GenesysLogic_USB2.1_Hub'} connected
+2025-05-03 16:01:49.133 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/002/004 with info: {'ID_MODEL_ID': '0626', 'ID_MODEL': 'USB3.1_Hub', 'ID_MODEL_FROM_DATABASE': 'Hub', 'ID_VENDOR': 'GenesysLogic', 'ID_VENDOR_ID': '05e3', 'ID_VENDOR_FROM_DATABASE': 'Genesys Logic, Inc.', 'ID_USB_INTERFACES': ('090000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/002/004', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'GenesysLogic_USB3.1_Hub'} connected
+2025-05-03 16:01:49.485 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/008 with info: {'ID_MODEL_ID': '0608', 'ID_MODEL': 'USB2.0_Hub', 'ID_MODEL_FROM_DATABASE': 'Hub', 'ID_VENDOR': '05e3', 'ID_VENDOR_ID': '05e3', 'ID_VENDOR_FROM_DATABASE': 'Genesys Logic, Inc.', 'ID_USB_INTERFACES': ('090000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/008', 'DEVTYPE': 'usb_device', 'ID_SERIAL': '05e3_USB2.0_Hub'} connected
+2025-05-03 16:01:49.548 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/002/005 with info: {'ID_MODEL_ID': '8153', 'ID_MODEL': 'USB_10_100_1000_LAN', 'ID_MODEL_FROM_DATABASE': 'RTL8153 Gigabit Ethernet Adapter', 'ID_VENDOR': 'Realtek', 'ID_VENDOR_ID': '0bda', 'ID_VENDOR_FROM_DATABASE': 'Realtek Semiconductor Corp.', 'ID_USB_INTERFACES': ('ffff00', '020600', '0a0000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/002/005', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'Realtek_USB_10_100_1000_LAN_001000001'} connected
+2025-05-03 16:02:03.073 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/009 with info: {'ID_MODEL_ID': '008f', 'ID_MODEL': 'Stream_Deck_XL', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'Elgato', 'ID_VENDOR_ID': '0fd9', 'ID_VENDOR_FROM_DATABASE': 'Elgato Systems GmbH', 'ID_USB_INTERFACES': ('030000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/009', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'Elgato_Stream_Deck_XL_CL01M3A00214'} connected
+2025-05-03 16:02:03.132 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-03 16:02:03.132 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-03 16:02:03.132 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-03 16:02:03.132 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-03 16:02:03.216 | ERROR    | src.backend.DeckManagement.DeckController:update_ui_on_page_change:637 - 'NoneType' object has no attribute 'page_settings' -> This is okay if you just activated your first deck.
+2025-05-03 16:02:03.218 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-03 16:02:03.248 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139836719576768
+2025-05-03 16:02:03.308 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01678943634033203 seconds
+2025-05-03 16:02:03.325 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f2ec1792e40>
+2025-05-03 16:02:03.326 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-03 16:02:03.326 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.01774287223815918 seconds
+2025-05-03 16:02:03.393 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139836719576768
+2025-05-03 16:02:03.427 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-03 16:02:03.455 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.0053021907806396484 seconds
+2025-05-03 16:02:03.462 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.006884098052978516 seconds
+2025-05-03 16:02:11.286 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-03 16:02:11.286 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-03 16:02:11.300 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-03 16:02:11.306 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-03 16:02:11.306 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-03 16:02:11.306 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-03 16:02:11.307 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-03 16:02:11.307 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-03 16:02:11.307 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-03 16:02:11.307 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-03 16:02:11.308 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-03 16:02:11.310 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.02 seconds
+2025-05-03 16:02:11.310 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-03 16:02:11.388 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139836719576768
+2025-05-03 16:02:11.465 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.024283170700073242 seconds
+2025-05-03 16:02:12.593 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-03 16:02:12.594 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f2ef4336e90>
+2025-05-03 16:02:12.634 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-03 16:02:12.647 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.013778209686279297 seconds
+2025-05-03 16:02:12.719 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-03 16:02:12.749 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139836719576768
+2025-05-03 16:02:12.798 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.025943994522094727 seconds
+2025-05-03 16:02:12.808 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009084939956665039 seconds
+2025-05-03 17:54:10.284 | WARNING  | MediaController:get_matching_ifaces:59 - org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.DBus.Properties” on object at path /org/mpris/MediaPlayer2
+2025-05-03 17:54:10.284 | WARNING  | MediaController:get_matching_ifaces:59 - org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/mpris/MediaPlayer2”
+2025-05-04 14:24:05.869 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-04 14:24:05.872 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0010421276092529297 seconds
+2025-05-04 14:24:05.875 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-26T17:46:12.274416
+2025-05-04 14:24:06.275 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=38515
+2025-05-04 14:24:06.483 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-04 14:24:06.484 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00031828880310058594 seconds
+2025-05-04 14:24:06.484 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-04 14:24:06.484 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.000308990478515625 seconds
+2025-05-04 14:24:06.490 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-04 14:24:06.490 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=38969
+2025-05-04 14:24:06.901 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-04 14:24:06.921 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-04 14:24:06.922 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-04 14:24:06.922 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-04 14:24:06.922 | INFO     | __main__:load:116 - Loading app
+2025-05-04 14:24:06.922 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-04 14:24:06.944 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-04 14:24:06.959 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-04 14:24:07.054 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-04 14:24:07.054 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-04 14:24:07.054 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-04 14:24:07.055 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-04 14:24:07.144 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-04 14:24:07.226 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140442855261888
+2025-05-04 14:24:07.321 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.028834819793701172 seconds
+2025-05-04 14:24:07.331 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-04 14:24:07.332 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.01106882095336914 seconds
+2025-05-04 14:24:07.333 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-04 14:24:07.544 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-04 14:24:07.907 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-04 14:24:07.990 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-04 14:24:08.029 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.1068310737609863 seconds
+2025-05-04 14:43:42.324 | INFO     | src.backend.DeckManagement.DeckManager:on_disconnect:156 - Device /dev/bus/usb/003/002 with info: {'ID_MODEL_ID': '0003', 'ID_MODEL': 'RODE_NT-USB', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'RODE_Microphones', 'ID_VENDOR_ID': '19f7', 'ID_VENDOR_FROM_DATABASE': 'RODE Microphones', 'ID_USB_INTERFACES': ('010100', '010200', '030000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/003/002', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'RODE_Microphones_RODE_NT-USB'} disconnected
+2025-05-04 14:43:59.163 | INFO     | src.backend.DeckManagement.DeckManager:on_disconnect:156 - Device /dev/bus/usb/001/007 with info: {'ID_MODEL_ID': '008f', 'ID_MODEL': 'Stream_Deck_XL', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'Elgato', 'ID_VENDOR_ID': '0fd9', 'ID_VENDOR_FROM_DATABASE': 'Elgato Systems GmbH', 'ID_USB_INTERFACES': ('030000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/007', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'Elgato_Stream_Deck_XL_CL01M3A00214'} disconnected
+2025-05-04 14:44:12.371 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/010 with info: {'ID_MODEL_ID': '008f', 'ID_MODEL': 'Stream_Deck_XL', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'Elgato', 'ID_VENDOR_ID': '0fd9', 'ID_VENDOR_FROM_DATABASE': 'Elgato Systems GmbH', 'ID_USB_INTERFACES': ('030000',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/010', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'Elgato_Stream_Deck_XL_CL01M3A00214'} connected
+2025-05-04 14:44:12.417 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-04 14:44:12.417 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-04 14:44:12.417 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-04 14:44:12.418 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-04 14:44:12.501 | ERROR    | src.backend.DeckManagement.DeckController:update_ui_on_page_change:637 - 'NoneType' object has no attribute 'page_settings' -> This is okay if you just activated your first deck.
+2025-05-04 14:44:12.503 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-04 14:44:12.543 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140442832205504
+2025-05-04 14:44:12.578 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.007733821868896484 seconds
+2025-05-04 14:44:12.594 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.014862060546875 seconds
+2025-05-04 14:44:25.175 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/011 with info: {'ID_MODEL_ID': '0003', 'ID_MODEL': 'RODE_NT-USB', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'RODE_Microphones', 'ID_VENDOR_ID': '19f7', 'ID_VENDOR_FROM_DATABASE': 'RODE Microphones', 'ID_USB_INTERFACES': ('010100', '010200', '030000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/011', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'RODE_Microphones_RODE_NT-USB'} connected
+2025-05-04 14:44:27.867 | INFO     | src.backend.DeckManagement.DeckManager:on_disconnect:156 - Device /dev/bus/usb/001/011 with info: {'ID_MODEL_ID': '0003', 'ID_MODEL': 'RODE_NT-USB', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'RODE_Microphones', 'ID_VENDOR_ID': '19f7', 'ID_VENDOR_FROM_DATABASE': 'RODE Microphones', 'ID_USB_INTERFACES': ('010100', '010200', '030000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/011', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'RODE_Microphones_RODE_NT-USB'} disconnected
+2025-05-04 14:44:29.686 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/012 with info: {'ID_MODEL_ID': '0003', 'ID_MODEL': 'RODE_NT-USB', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'RODE_Microphones', 'ID_VENDOR_ID': '19f7', 'ID_VENDOR_FROM_DATABASE': 'RODE Microphones', 'ID_USB_INTERFACES': ('010100', '010200', '030000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/012', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'RODE_Microphones_RODE_NT-USB'} connected
+2025-05-04 14:44:46.227 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-04 14:44:46.227 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-04 14:44:46.241 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-04 14:44:46.246 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-04 14:44:46.247 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-04 14:44:46.248 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-04 14:44:46.250 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.02 seconds
+2025-05-04 14:44:46.250 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-04 14:44:46.341 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140442832205504
+2025-05-04 14:44:46.416 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.0188753604888916 seconds
+2025-05-04 14:44:46.561 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fbb8ce1e5d0>
+2025-05-04 14:44:46.561 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-04 14:44:46.597 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-04 14:44:46.610 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.013008356094360352 seconds
+2025-05-04 14:44:46.682 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-04 14:44:46.707 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140442832205504
+2025-05-04 14:44:46.753 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.024739742279052734 seconds
+2025-05-04 14:44:46.763 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009323835372924805 seconds
+2025-05-05 07:55:55.327 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-05 07:55:55.331 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0009984970092773438 seconds
+2025-05-05 07:55:55.333 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-27T08:21:11.417142
+2025-05-05 07:55:55.876 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=32901
+2025-05-05 07:55:56.085 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-05 07:55:56.085 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003037452697753906 seconds
+2025-05-05 07:55:56.085 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-05 07:55:56.086 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003025531768798828 seconds
+2025-05-05 07:55:56.090 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-05 07:55:56.091 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=37559
+2025-05-05 07:55:56.501 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-05 07:55:56.519 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-05 07:55:56.520 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 07:55:56.520 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 07:55:56.520 | INFO     | __main__:load:116 - Loading app
+2025-05-05 07:55:56.521 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-05 07:55:56.541 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-05 07:55:56.657 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 07:55:56.670 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-05 07:55:56.670 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-05 07:55:56.670 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-05 07:55:56.670 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-05 07:55:56.756 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-05 07:55:56.801 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139959453329088
+2025-05-05 07:55:56.858 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018855810165405273 seconds
+2025-05-05 07:55:56.868 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009248018264770508 seconds
+2025-05-05 07:55:56.871 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-05 07:55:56.871 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-05 07:55:57.026 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-05 07:55:57.166 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 07:55:57.403 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 07:55:57.593 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.072331190109253 seconds
+2025-05-05 07:55:59.858 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-05 07:55:59.858 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-05 07:55:59.865 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-05 07:55:59.870 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-05 07:55:59.871 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-05 07:55:59.871 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-05 07:55:59.871 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-05 07:55:59.872 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-05 07:55:59.872 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-05 07:55:59.872 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-05 07:55:59.874 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-05 07:55:59.876 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.02 seconds
+2025-05-05 07:55:59.876 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-05 07:55:59.952 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139959453329088
+2025-05-05 07:56:00.022 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018663883209228516 seconds
+2025-05-05 07:56:00.103 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-05 07:56:00.145 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4afcbfead0>
+2025-05-05 07:56:00.146 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-05 07:56:00.155 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.010094165802001953 seconds
+2025-05-05 07:56:00.231 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-05 07:56:00.261 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139959453329088
+2025-05-05 07:56:00.313 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.02549004554748535 seconds
+2025-05-05 07:56:00.322 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009735584259033203 seconds
+2025-05-05 16:46:43.089 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-05 16:46:43.092 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0007710456848144531 seconds
+2025-05-05 16:46:43.094 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-28T07:24:34.456862
+2025-05-05 16:46:43.663 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=43897
+2025-05-05 16:46:43.871 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-05 16:46:43.871 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003032684326171875 seconds
+2025-05-05 16:46:43.871 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-05 16:46:43.872 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00033736228942871094 seconds
+2025-05-05 16:46:43.876 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-05 16:46:43.877 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=43261
+2025-05-05 16:46:44.292 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-05 16:46:44.310 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-05 16:46:44.311 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 16:46:44.311 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 16:46:44.311 | INFO     | __main__:load:116 - Loading app
+2025-05-05 16:46:44.311 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-05 16:46:44.330 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-05 16:46:44.452 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-05 16:46:44.452 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-05 16:46:44.453 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-05 16:46:44.453 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-05 16:46:44.539 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-05 16:46:44.609 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139829899683520
+2025-05-05 16:46:44.663 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:46:44.682 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.017581462860107422 seconds
+2025-05-05 16:46:44.690 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.007543802261352539 seconds
+2025-05-05 16:46:44.701 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-05 16:46:44.702 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-05 16:46:44.860 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-05 16:46:45.156 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:46:45.340 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:46:45.548 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.2367744445800781 seconds
+2025-05-05 16:55:02.525 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-05 16:55:02.526 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00014519691467285156 seconds
+2025-05-05 16:55:02.526 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-29T06:52:25.840842
+2025-05-05 16:55:02.993 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=34075
+2025-05-05 16:55:03.100 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-05 16:55:03.100 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00021791458129882812 seconds
+2025-05-05 16:55:03.100 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-05 16:55:03.101 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00021529197692871094 seconds
+2025-05-05 16:55:03.103 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-05 16:55:03.103 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=38633
+2025-05-05 16:55:03.407 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-05 16:55:03.424 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-05 16:55:03.424 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 16:55:03.424 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-05 16:55:03.424 | INFO     | __main__:load:116 - Loading app
+2025-05-05 16:55:03.425 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-05 16:55:03.440 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-05 16:55:03.525 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-05 16:55:03.525 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-05 16:55:03.525 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-05 16:55:03.526 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-05 16:55:03.554 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:55:03.612 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-05 16:55:03.674 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139832349140672
+2025-05-05 16:55:03.757 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01976323127746582 seconds
+2025-05-05 16:55:03.762 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.004477262496948242 seconds
+2025-05-05 16:55:03.772 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-05 16:55:03.772 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-05 16:55:03.923 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-05 16:55:04.045 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:55:04.297 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-05 16:55:04.494 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.0691330432891846 seconds
+2025-05-05 16:58:01.872 | INFO     | src.backend.DeckManagement.DeckManager:on_connect:133 - Device /dev/bus/usb/001/010 with info: {'ID_MODEL_ID': '0003', 'ID_MODEL': 'RODE_NT-USB', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'RODE_Microphones', 'ID_VENDOR_ID': '19f7', 'ID_VENDOR_FROM_DATABASE': 'RODE Microphones', 'ID_USB_INTERFACES': ('010100', '010200', '030000'), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/001/010', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'RODE_Microphones_RODE_NT-USB'} connected
+2025-05-05 16:58:05.410 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-05 16:58:05.410 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-05 16:58:05.417 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-05 16:58:05.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-05 16:58:05.423 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-05 16:58:05.424 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-05 16:58:05.426 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.02 seconds
+2025-05-05 16:58:05.427 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-05 16:58:05.524 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139832349140672
+2025-05-05 16:58:05.716 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-05 16:58:05.746 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f2d64c37110>
+2025-05-05 16:58:05.746 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-05 16:58:05.749 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.1731433868408203 seconds
+2025-05-05 16:58:05.815 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-05 16:58:05.840 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139832349140672
+2025-05-05 16:58:05.894 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.022958040237426758 seconds
+2025-05-05 16:58:05.903 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008262872695922852 seconds
+2025-05-05 20:38:54.684 | INFO     | src.backend.DeckManagement.DeckManager:on_disconnect:156 - Device /dev/bus/usb/004/002 with info: {'ID_MODEL_ID': '2621', 'ID_MODEL': 'Elements_2621', 'ID_MODEL_FROM_DATABASE': '', 'ID_VENDOR': 'Western_Digital', 'ID_VENDOR_ID': '1058', 'ID_VENDOR_FROM_DATABASE': 'Western Digital Technologies, Inc.', 'ID_USB_INTERFACES': ('080650',), 'ID_USB_CLASS_FROM_DATABASE': '', 'DEVNAME': '/dev/bus/usb/004/002', 'DEVTYPE': 'usb_device', 'ID_SERIAL': 'Western_Digital_Elements_2621_575841324436343637415331'} disconnected
+2025-05-06 06:02:46.974 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-05-06 06:02:46.979 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.002588987350463867 seconds
+2025-05-06 06:02:46.981 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-30T06:36:43.022485
+2025-05-06 06:02:47.520 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=44479
+2025-05-06 06:02:47.731 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-05-06 06:02:47.732 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003573894500732422 seconds
+2025-05-06 06:02:47.732 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-05-06 06:02:47.733 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0004062652587890625 seconds
+2025-05-06 06:02:47.737 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-05-06 06:02:47.738 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=42547
+2025-05-06 06:02:48.048 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-05-06 06:02:48.066 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-05-06 06:02:48.067 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-05-06 06:02:48.067 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-05-06 06:02:48.068 | INFO     | __main__:load:116 - Loading app
+2025-05-06 06:02:48.068 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-05-06 06:02:48.086 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-05-06 06:02:48.206 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-06 06:02:48.206 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-06 06:02:48.206 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-05-06 06:02:48.206 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-05-06 06:02:48.240 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-06 06:02:48.293 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-05-06 06:02:48.329 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 06:02:48.390 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.016637802124023438 seconds
+2025-05-06 06:02:48.395 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.004972934722900391 seconds
+2025-05-06 06:02:48.404 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-05-06 06:02:48.405 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-05-06 06:02:48.563 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-05-06 06:02:48.762 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-06 06:02:48.989 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-05-06 06:02:49.194 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.1256129741668701 seconds
+2025-05-06 06:03:33.416 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-05-06 06:03:33.416 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-05-06 06:03:33.422 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-05-06 06:03:33.428 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-05-06 06:03:33.428 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-05-06 06:03:33.428 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-05-06 06:03:33.428 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-05-06 06:03:33.428 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-05-06 06:03:33.429 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-05-06 06:03:33.429 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-05-06 06:03:33.430 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-05-06 06:03:33.432 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.02 seconds
+2025-05-06 06:03:33.433 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-06 06:03:33.510 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 06:03:33.590 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.016566991806030273 seconds
+2025-05-06 06:03:33.676 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-06 06:03:33.722 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7efe58542ad0>
+2025-05-06 06:03:33.723 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-06 06:03:33.733 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.011113882064819336 seconds
+2025-05-06 06:03:33.808 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-06 06:03:33.857 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 06:03:33.941 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.026627302169799805 seconds
+2025-05-06 06:03:33.951 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009700775146484375 seconds
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Exit with id com_core447_VolumeMixer::Exit
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Right with id com_core447_VolumeMixer::MoveRight
+2025-05-06 09:16:59.254 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Left with id com_core447_VolumeMixer::MoveLeft
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-06 09:16:59.255 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-05-06 09:16:59.255 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page VolumeMixer in 0.00 seconds
+2025-05-06 09:16:59.256 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-05-06 09:16:59.326 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 09:16:59.372 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01066446304321289 seconds
+2025-05-06 09:16:59.393 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7efe58543390>
+2025-05-06 09:16:59.393 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-05-06 09:16:59.421 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-05-06 09:16:59.431 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009485721588134766 seconds
+2025-05-06 09:16:59.507 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-05-06 09:16:59.538 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 09:17:00.194 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.6255502700805664 seconds
+2025-05-06 09:17:00.204 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009322881698608398 seconds
+2025-05-06 10:24:39.547 | ERROR    | threading:run:992 - An error has been caught in function 'run', process 'MainProcess' (2397), thread 'own_actions_tick' (139631199581888):
+Traceback (most recent call last):
+
+  File "/usr/lib64/python3.13/threading.py", line 1012, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7efebe2f6ac0>
+    └ <Thread(own_actions_tick, started 139631199581888)>
+  File "/usr/lib64/python3.13/threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7efebe2f6840>
+    └ <Thread(own_actions_tick, started 139631199581888)>
+> File "/usr/lib64/python3.13/threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(own_actions_tick, started 139631199581888)>
+    │    │        │    └ ()
+    │    │        └ <Thread(own_actions_tick, started 139631199581888)>
+    │    └ <bound method ControllerInputState.own_actions_tick of <src.backend.DeckManagement.DeckController.ControllerKeyState object a...
+    └ <Thread(own_actions_tick, started 139631199581888)>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/DeckController.py", line 1572, in own_actions_tick
+    action.on_tick()
+    │      └ <function DownKey.on_tick at 0x7efe59ff4220>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/actions/VolumeDownKey.py", line 38, in on_tick
+    self.show_state(2)
+    │    └ <function DownKey.show_state at 0x7efe59ff4540>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/actions/VolumeDownKey.py", line 102, in show_state
+    self.set_media(image=image.copy, size=0.8, valign=-1)
+    │    │               │     └ <function Image.copy at 0x7efeb07182c0>
+    │    │               └ <PIL.Image.Image image mode=RGBA size=96x96 at 0x7EFE72B20AF0>
+    │    └ <function ActionCore.set_media at 0x7efe5bc194e0>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/PluginManager/ActionCore.py", line 193, in set_media
+    input_state.set_image(InputImage(
+    │           │         └ <class 'src.backend.DeckManagement.Subclasses.KeyImage.InputImage'>
+    │           └ <function ControllerKeyState.set_image at 0x7efe5ba9d440>
+    └ <src.backend.DeckManagement.DeckController.ControllerKeyState object at 0x7efe72b8c1b0>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/Subclasses/KeyImage.py", line 36, in __init__
+    self.image = image.convert("RGBA")
+    │            └ <bound method Image.copy of <PIL.Image.Image image mode=RGBA size=96x96 at 0x7EFE72B20AF0>>
+    └ <src.backend.DeckManagement.Subclasses.KeyImage.InputImage object at 0x7efe000fb3b0>
+
+AttributeError: 'function' object has no attribute 'convert'
+2025-05-06 10:28:03.551 | ERROR    | threading:run:992 - An error has been caught in function 'run', process 'MainProcess' (2397), thread 'own_actions_tick' (139631216367296):
+Traceback (most recent call last):
+
+  File "/usr/lib64/python3.13/threading.py", line 1012, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7efebe2f6ac0>
+    └ <Thread(own_actions_tick, started 139631216367296)>
+  File "/usr/lib64/python3.13/threading.py", line 1041, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x7efebe2f6840>
+    └ <Thread(own_actions_tick, started 139631216367296)>
+> File "/usr/lib64/python3.13/threading.py", line 992, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(own_actions_tick, started 139631216367296)>
+    │    │        │    └ ()
+    │    │        └ <Thread(own_actions_tick, started 139631216367296)>
+    │    └ <bound method ControllerInputState.own_actions_tick of <src.backend.DeckManagement.DeckController.ControllerKeyState object a...
+    └ <Thread(own_actions_tick, started 139631216367296)>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/DeckController.py", line 1572, in own_actions_tick
+    action.on_tick()
+    │      └ <function DownKey.on_tick at 0x7efe59ff4220>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/actions/VolumeDownKey.py", line 38, in on_tick
+    self.show_state(2)
+    │    └ <function DownKey.show_state at 0x7efe59ff4540>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/actions/VolumeDownKey.py", line 102, in show_state
+    self.set_media(image=image.copy, size=0.8, valign=-1)
+    │    │               │     └ <function Image.copy at 0x7efeb07182c0>
+    │    │               └ <PIL.Image.Image image mode=RGBA size=96x96 at 0x7EFE72B0E850>
+    │    └ <function ActionCore.set_media at 0x7efe5bc194e0>
+    └ <plugins.com_core447_VolumeMixer.actions.VolumeDownKey.DownKey object at 0x7efe583a6ad0>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/PluginManager/ActionCore.py", line 193, in set_media
+    input_state.set_image(InputImage(
+    │           │         └ <class 'src.backend.DeckManagement.Subclasses.KeyImage.InputImage'>
+    │           └ <function ControllerKeyState.set_image at 0x7efe5ba9d440>
+    └ <src.backend.DeckManagement.DeckController.ControllerKeyState object at 0x7efe72b8c1b0>
+
+  File "/home/michele/Devel/streamdeck/StreamController/src/backend/DeckManagement/Subclasses/KeyImage.py", line 36, in __init__
+    self.image = image.convert("RGBA")
+    │            └ <bound method Image.copy of <PIL.Image.Image image mode=RGBA size=96x96 at 0x7EFE72B0E850>>
+    └ <src.backend.DeckManagement.Subclasses.KeyImage.InputImage object at 0x7efe72b82690>
+
+AttributeError: 'function' object has no attribute 'convert'
+2025-05-06 13:28:17.535 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-06 13:28:17.604 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-06 13:28:17.636 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 13:28:17.657 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7efe58542ad0>
+2025-05-06 13:28:17.658 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-05-06 13:28:17.679 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.02261662483215332 seconds
+2025-05-06 13:28:17.688 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008916139602661133 seconds
+2025-05-06 13:28:17.760 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-05-06 13:28:17.791 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139629965592256
+2025-05-06 13:28:17.850 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.024784564971923828 seconds
+2025-05-06 13:28:17.860 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009977579116821289 seconds

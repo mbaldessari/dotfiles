@@ -1,0 +1,327 @@
+2025-04-21 11:11:33.161 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:11:33.229 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:11:33.264 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:11:33.288 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f40205016d0>
+2025-04-21 11:11:33.289 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:11:33.859 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.5703814029693604 seconds
+2025-04-21 11:11:33.879 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.019983768463134766 seconds
+2025-04-21 11:11:33.957 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:11:33.992 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:11:34.697 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.6838583946228027 seconds
+2025-04-21 11:11:34.707 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009682416915893555 seconds
+2025-04-21 11:11:35.551 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:11:35.619 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:11:35.620 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:11:35.652 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4020502490>
+2025-04-21 11:11:35.672 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:11:35.691 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.017731904983520508 seconds
+2025-04-21 11:11:35.698 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.007631063461303711 seconds
+2025-04-21 11:11:35.774 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:11:35.802 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:11:35.843 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.020854949951171875 seconds
+2025-04-21 11:11:35.867 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.024059772491455078 seconds
+2025-04-21 11:59:16.094 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:16.179 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:16.209 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:16.242 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f40205016d0>
+2025-04-21 11:59:16.243 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:16.915 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.6751446723937988 seconds
+2025-04-21 11:59:16.929 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.014067411422729492 seconds
+2025-04-21 11:59:17.013 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:17.045 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:17.104 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.030367136001586914 seconds
+2025-04-21 11:59:17.114 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009847640991210938 seconds
+2025-04-21 11:59:19.054 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:59:19.123 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:59:19.155 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:19.156 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4020502490>
+2025-04-21 11:59:19.178 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:59:19.195 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.016741037368774414 seconds
+2025-04-21 11:59:19.204 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008616447448730469 seconds
+2025-04-21 11:59:19.280 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:59:19.307 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:19.347 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01948094367980957 seconds
+2025-04-21 11:59:19.355 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008702993392944336 seconds
+2025-04-21 11:59:21.282 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:21.367 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:21.396 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:21.420 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f40205016d0>
+2025-04-21 11:59:21.421 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:21.915 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.4971458911895752 seconds
+2025-04-21 11:59:21.936 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.01996898651123047 seconds
+2025-04-21 11:59:22.008 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 11:59:22.037 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:22.916 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.8590574264526367 seconds
+2025-04-21 11:59:22.934 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.016910791397094727 seconds
+2025-04-21 11:59:24.996 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:59:25.081 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:59:25.111 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:25.132 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4020502490>
+2025-04-21 11:59:25.133 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 11:59:25.151 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018883943557739258 seconds
+2025-04-21 11:59:25.159 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008257865905761719 seconds
+2025-04-21 11:59:25.234 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 11:59:25.264 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 11:59:25.312 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018712282180786133 seconds
+2025-04-21 11:59:25.320 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.007963895797729492 seconds
+2025-04-21 13:27:22.228 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 13:27:22.314 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 13:27:22.353 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 13:27:22.390 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f40205016d0>
+2025-04-21 13:27:22.392 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 13:27:22.434 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.04363608360290527 seconds
+2025-04-21 13:27:22.449 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.014373779296875 seconds
+2025-04-21 13:27:22.527 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 13:27:22.576 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 13:27:22.658 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.04527640342712402 seconds
+2025-04-21 13:27:22.672 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.01374959945678711 seconds
+2025-04-21 13:31:09.100 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 13:31:09.169 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 13:31:09.202 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 13:31:09.227 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4020502490>
+2025-04-21 13:31:09.228 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 13:31:09.245 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018650531768798828 seconds
+2025-04-21 13:31:09.253 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008057832717895508 seconds
+2025-04-21 13:31:09.329 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 13:31:09.362 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 13:31:09.409 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.02149033546447754 seconds
+2025-04-21 13:31:09.418 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.009001493453979492 seconds
+2025-04-21 17:37:26.907 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 17:37:26.975 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 17:37:27.005 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 17:37:27.031 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f40205016d0>
+2025-04-21 17:37:27.031 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-21 17:37:27.063 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.03211021423339844 seconds
+2025-04-21 17:37:27.075 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.011503934860229492 seconds
+2025-04-21 17:37:27.150 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-21 17:37:27.177 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 17:37:27.312 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.11303591728210449 seconds
+2025-04-21 17:37:27.330 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.017680644989013672 seconds
+2025-04-21 18:48:58.962 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 18:48:59.047 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 18:48:59.080 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 18:48:59.080 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f4020502490>
+2025-04-21 18:48:59.110 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-21 18:48:59.127 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01628255844116211 seconds
+2025-04-21 18:48:59.135 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.007554054260253906 seconds
+2025-04-21 18:48:59.212 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-21 18:48:59.240 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 139912317761216
+2025-04-21 18:48:59.281 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.019405364990234375 seconds
+2025-04-21 18:48:59.288 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.0072956085205078125 seconds
+2025-04-22 06:59:06.367 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-04-22 06:59:06.370 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0008516311645507812 seconds
+2025-04-22 06:59:06.372 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-16T07:34:59.208661
+2025-04-22 06:59:06.795 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=44545
+2025-04-22 06:59:07.003 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-04-22 06:59:07.004 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0003952980041503906 seconds
+2025-04-22 06:59:07.004 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-04-22 06:59:07.005 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0007178783416748047 seconds
+2025-04-22 06:59:07.008 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-04-22 06:59:07.009 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=34055
+2025-04-22 06:59:07.318 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-04-22 06:59:07.334 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-04-22 06:59:07.335 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-04-22 06:59:07.335 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-04-22 06:59:07.335 | INFO     | __main__:load:116 - Loading app
+2025-04-22 06:59:07.335 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-04-22 06:59:07.357 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-04-22 06:59:07.370 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-22 06:59:07.471 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-22 06:59:07.471 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-22 06:59:07.471 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-04-22 06:59:07.471 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-04-22 06:59:07.557 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-04-22 06:59:07.612 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140212747359936
+2025-04-22 06:59:07.695 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.020790576934814453 seconds
+2025-04-22 06:59:07.707 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-04-22 06:59:07.708 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-04-22 06:59:07.712 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.0169522762298584 seconds
+2025-04-22 06:59:07.909 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-04-22 06:59:07.955 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-22 06:59:08.038 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-22 06:59:08.077 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 0.7415115833282471 seconds
+2025-04-22 08:21:33.679 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-04-22 08:21:33.679 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-04-22 08:21:33.685 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-04-22 08:21:33.691 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-22 08:21:33.691 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-04-22 08:21:33.691 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-04-22 08:21:33.691 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-04-22 08:21:33.692 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-04-22 08:21:33.692 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-22 08:21:33.692 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.01 seconds
+2025-04-22 08:21:33.692 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-22 08:21:33.794 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140212747359936
+2025-04-22 08:21:33.969 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f860c5725d0>
+2025-04-22 08:21:33.970 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.1215975284576416 seconds
+2025-04-22 08:21:33.970 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-22 08:21:34.004 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-22 08:21:34.072 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140212747359936
+2025-04-22 08:21:34.072 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-22 08:21:34.151 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.01972794532775879 seconds
+2025-04-22 08:21:34.159 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008235454559326172 seconds
+2025-04-23 05:53:23.549 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-04-23 05:53:23.552 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0007684230804443359 seconds
+2025-04-23 05:53:23.554 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-17T07:32:42.242788
+2025-04-23 05:53:24.091 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=43085
+2025-04-23 05:53:24.300 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-04-23 05:53:24.300 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00031256675720214844 seconds
+2025-04-23 05:53:24.300 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-04-23 05:53:24.301 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00034165382385253906 seconds
+2025-04-23 05:53:24.305 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-04-23 05:53:24.305 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=43961
+2025-04-23 05:53:24.616 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-04-23 05:53:24.633 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-04-23 05:53:24.634 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-04-23 05:53:24.634 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-04-23 05:53:24.635 | INFO     | __main__:load:116 - Loading app
+2025-04-23 05:53:24.635 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-04-23 05:53:24.653 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-04-23 05:53:24.764 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-23 05:53:24.764 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-23 05:53:24.765 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-04-23 05:53:24.765 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-04-23 05:53:24.769 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-23 05:53:24.851 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-04-23 05:53:24.897 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 05:53:24.965 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.017151355743408203 seconds
+2025-04-23 05:53:24.977 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.011574029922485352 seconds
+2025-04-23 05:53:24.981 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-04-23 05:53:24.981 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-04-23 05:53:25.126 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-04-23 05:53:25.889 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-23 05:53:26.108 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-23 05:53:26.300 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.6651859283447266 seconds
+2025-04-23 07:40:41.345 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-04-23 07:40:41.345 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-04-23 07:40:41.351 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-04-23 07:40:41.355 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-23 07:40:41.355 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-04-23 07:40:41.355 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-04-23 07:40:41.355 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-04-23 07:40:41.355 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-04-23 07:40:41.356 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-23 07:40:41.356 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.01 seconds
+2025-04-23 07:40:41.356 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-23 07:40:41.442 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 07:40:41.526 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.017001628875732422 seconds
+2025-04-23 07:40:41.676 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fb39016a5d0>
+2025-04-23 07:40:41.676 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-23 07:40:41.719 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-23 07:40:41.728 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008502721786499023 seconds
+2025-04-23 07:40:41.804 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-23 07:40:41.846 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 07:40:41.914 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.030562162399291992 seconds
+2025-04-23 07:40:41.928 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.013783454895019531 seconds
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Exit with id com_core447_VolumeMixer::Exit
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Louder with id com_core447_VolumeMixer::VolumeUp
+2025-04-23 20:56:14.158 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Right with id com_core447_VolumeMixer::MoveRight
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Mute with id com_core447_VolumeMixer::VolumeMute
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Move Left with id com_core447_VolumeMixer::MoveLeft
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-04-23 20:56:14.159 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Softer with id com_core447_VolumeMixer::VolumeDown
+2025-04-23 20:56:14.159 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page VolumeMixer in 0.00 seconds
+2025-04-23 20:56:14.159 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-23 20:56:14.230 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 20:56:14.266 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.0042362213134765625 seconds
+2025-04-23 20:56:14.288 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fb39016a490>
+2025-04-23 20:56:14.288 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-23 20:56:14.313 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page VolumeMixer on deck CL01M3A00214
+2025-04-23 20:56:14.380 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 20:56:14.412 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page VolumeMixer on deck CL01M3A00214
+2025-04-23 20:56:14.463 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.028829336166381836 seconds
+2025-04-23 20:56:14.474 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.010826587677001953 seconds
+2025-04-23 20:56:17.257 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-23 20:56:17.342 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-23 20:56:17.372 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 20:56:17.398 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7fb39016a5d0>
+2025-04-23 20:56:17.399 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-23 20:56:17.417 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018886566162109375 seconds
+2025-04-23 20:56:17.426 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008511543273925781 seconds
+2025-04-23 20:56:17.500 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-23 20:56:17.531 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140408235480768
+2025-04-23 20:56:17.575 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.020546913146972656 seconds
+2025-04-23 20:56:17.584 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008913040161132812 seconds
+2025-04-24 06:46:28.855 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-04-24 06:46:28.858 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0007834434509277344 seconds
+2025-04-24 06:46:28.861 | INFO     | src.backend.PageManagement.PageManagerBackend:remove_old_backups:448 - Removed old page backups: 2025-04-18T09:22:39.658447
+2025-04-24 06:46:29.520 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=38853
+2025-04-24 06:46:29.829 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-04-24 06:46:29.829 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00043582916259765625 seconds
+2025-04-24 06:46:29.829 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-04-24 06:46:29.830 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00035190582275390625 seconds
+2025-04-24 06:46:29.834 | WARNING  | locales.LegacyLocaleManager:load_fallback_language:32 - Fallback language file not found under: /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/locales/en_US.json
+2025-04-24 06:46:29.834 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/dev_eumario_WebSocket/backend/backend.py --port=34713
+2025-04-24 06:46:30.044 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-04-24 06:46:30.065 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-04-24 06:46:30.066 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-04-24 06:46:30.066 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-04-24 06:46:30.067 | INFO     | __main__:load:116 - Loading app
+2025-04-24 06:46:30.067 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-04-24 06:46:30.088 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-04-24 06:46:30.218 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-24 06:46:30.218 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-24 06:46:30.219 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page jira in 0.00 seconds
+2025-04-24 06:46:30.219 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page jira on deck CL01M3A00214
+2025-04-24 06:46:30.305 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page jira on deck CL01M3A00214
+2025-04-24 06:46:30.348 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140087161497280
+2025-04-24 06:46:30.414 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.017862558364868164 seconds
+2025-04-24 06:46:30.420 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.005580425262451172 seconds
+2025-04-24 06:46:30.427 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-04-24 06:46:30.427 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-04-24 06:46:30.482 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-24 06:46:30.581 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-04-24 06:46:30.906 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-24 06:46:31.094 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-24 06:46:31.505 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 1.4375438690185547 seconds
+2025-04-24 06:46:34.702 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Analog clock with id com_core447_Clocks::AnalogClock
+2025-04-24 06:46:34.702 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action CPU Graph with id com_core447_OSPlugin::CPU_Graph
+2025-04-24 06:46:34.708 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Memory Graph with id com_core447_OSPlugin::RAM_Graph
+2025-04-24 06:46:34.713 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Run Command with id com_core447_OSPlugin::RunCommand
+2025-04-24 06:46:34.714 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Open with id com_core447_VolumeMixer::Open
+2025-04-24 06:46:34.714 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Microphone Mute with id com_core447_MicMute::ToggleMute
+2025-04-24 06:46:34.714 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause with id com_core447_MediaPlugin::PlayPause
+2025-04-24 06:46:34.715 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Next with id com_core447_MediaPlugin::Next
+2025-04-24 06:46:34.715 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Change Page with id com_core447_DeckPlugin::ChangePage
+2025-04-24 06:46:34.715 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.01 seconds
+2025-04-24 06:46:34.715 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-24 06:46:34.809 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140087161497280
+2025-04-24 06:46:34.874 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.018817901611328125 seconds
+2025-04-24 06:46:35.072 | INFO     | src.windows.mainWindow.elements.PageSelector:on_change_page:127 - Load page: <src.backend.PageManagement.Page.Page object at 0x7f68c43025d0>
+2025-04-24 06:46:35.072 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-24 06:46:35.104 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-24 06:46:35.113 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.008526802062988281 seconds
+2025-04-24 06:46:35.190 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-24 06:46:35.219 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140087161497280
+2025-04-24 06:46:35.286 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.0342717170715332 seconds
+2025-04-24 06:46:35.300 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.014155149459838867 seconds
+2025-04-24 10:20:03.485 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7f68c4593ad0>
+2025-04-24 10:20:03.486 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-04-24 10:20:03.488 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:20:03.496 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:21:42.601 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:21:48.212 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7f68c4593ad0>
+2025-04-24 10:21:48.213 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-04-24 10:21:48.216 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:21:48.221 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:23:25.071 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:23:25.072 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:23:25.622 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:23:25.624 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:40:32.475 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:40:44.458 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7f68c456dc50>
+2025-04-24 10:40:44.460 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Toggle Recording with id com_core447_OBSPlugin::ToggleRecord
+2025-04-24 10:40:44.461 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:40:44.462 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:51:50.928 | TRACE    | src.windows.mainWindow.elements.Sidebar.elements.ActionManager:add_action:697 - Adding action: <src.backend.PluginManager.ActionHolder.ActionHolder object at 0x7f68c4593ad0>
+2025-04-24 10:51:50.930 | INFO     | src.backend.PluginManager.ActionCore:__init__:88 - Loaded action Play/Pause Recording with id com_core447_OBSPlugin::RecPlayPause
+2025-04-24 10:51:50.931 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-24 10:51:50.938 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds

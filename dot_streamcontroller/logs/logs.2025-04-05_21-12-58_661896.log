@@ -1,0 +1,27 @@
+2025-04-05 21:12:58.661 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-04-05 21:12:58.663 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.000286102294921875 seconds
+2025-04-05 21:12:59.084 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=37713
+2025-04-05 21:12:59.397 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-04-05 21:12:59.397 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0002658367156982422 seconds
+2025-04-05 21:12:59.397 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-04-05 21:12:59.398 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00028133392333984375 seconds
+2025-04-05 21:12:59.398 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-04-05 21:12:59.411 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-04-05 21:12:59.411 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-04-05 21:12:59.411 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-04-05 21:12:59.411 | INFO     | __main__:load:116 - Loading app
+2025-04-05 21:12:59.411 | INFO     | __main__:update_assets:180 - Updating store assets
+2025-04-05 21:12:59.427 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-04-05 21:12:59.546 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-05 21:12:59.547 | INFO     | src.backend.DeckManagement.DeckController:load_page:672 - Loading page start on deck CL01M3A00214
+2025-04-05 21:12:59.589 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-05 21:12:59.631 | INFO     | src.backend.DeckManagement.DeckController:load_page:703 - Loaded page start on deck CL01M3A00214
+2025-04-05 21:12:59.659 | INFO     | src.backend.DeckManagement.DeckController:load_background:524 - Loading background in thread: 140419409090240
+2025-04-05 21:12:59.683 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:610 - Loading all inputs took 0.0016286373138427734 seconds
+2025-04-05 21:12:59.687 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:442 - Updating all inputs took 0.0044286251068115234 seconds
+2025-04-05 21:12:59.709 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-04-05 21:12:59.709 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-04-05 21:12:59.825 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-04-05 21:13:17.493 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-05 21:13:20.762 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-05 21:13:21.556 | INFO     | __main__:update_assets:188 - Updating 0 store assets took 22.14445662498474 seconds

@@ -1,0 +1,42 @@
+2025-04-02 15:48:08.833 | ERROR    | src.backend.GnomeExtensions:connect_dbus:31 - Failed to connect to D-Bus: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+2025-04-02 15:48:08.834 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0002837181091308594 seconds
+2025-04-02 15:48:09.198 | INFO     | src.backend.PluginManager.PluginBase:launch_backend:636 - Launching backend: . /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/.venv/bin/activate && python3 /home/michele/.streamcontroller/plugins/com_core447_OBSPlugin/backend/backend.py --port=46107
+2025-04-02 15:48:09.413 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixer.json
+2025-04-02 15:48:09.413 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.0002486705780029297 seconds
+2025-04-02 15:48:09.413 | TRACE    | src.backend.PageManagement.PageManagerBackend:register_page:272 - Registering page: /home/michele/.streamcontroller/plugins/com_core447_VolumeMixer/pages/VolumeMixerSDPlus.json
+2025-04-02 15:48:09.414 | INFO     | src.backend.PageManagement.PageManagerBackend:update_auto_change_info:333 - Updated auto-change info in 0.00033092498779296875 seconds
+2025-04-02 15:48:09.414 | ERROR    | src.backend.WindowGrabber.WindowGrabber:init_integration:61 - Unsupported environment: None with server: wayland for window grabber.
+2025-04-02 15:48:09.414 | INFO     | autostart:setup_autostart_desktop_entry:82 - Setting up autostart using desktop entry
+2025-04-02 15:48:09.414 | INFO     | autostart:copy_desktop_file:119 - Desktop file copied from: /home/michele/Devel/streamdeck/StreamController/flatpak/autostart-native.desktop to: /home/michele/.config/autostart/StreamController.desktop
+2025-04-02 15:48:09.414 | INFO     | autostart:setup_autostart_desktop_entry:96 - Autostart set up at: /home/michele/.config/autostart/StreamController.desktop
+2025-04-02 15:48:09.415 | INFO     | __main__:load:115 - Loading app
+2025-04-02 15:48:09.415 | INFO     | __main__:update_assets:175 - Updating store assets
+2025-04-02 15:48:09.432 | INFO     | src.backend.DeckManagement.DeckManager:__init__:71 - Beta resume mode: True
+2025-04-02 15:48:09.541 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-02 15:48:09.541 | INFO     | src.backend.DeckManagement.DeckController:load_page:671 - Loading page start on deck AL42K2C50213
+2025-04-02 15:48:09.548 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-02 15:48:09.627 | INFO     | src.backend.DeckManagement.DeckController:load_page:702 - Loaded page start on deck AL42K2C50213
+2025-04-02 15:48:09.659 | INFO     | src.backend.DeckManagement.DeckController:load_background:523 - Loading background in thread: 140401876924096
+2025-04-02 15:48:09.693 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:609 - Loading all inputs took 0.002003192901611328 seconds
+2025-04-02 15:48:09.696 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:441 - Updating all inputs took 0.002711772918701172 seconds
+2025-04-02 15:48:09.755 | DEBUG    | src.backend.PageManagement.Page:load:80 - Loaded page start in 0.00 seconds
+2025-04-02 15:48:09.755 | INFO     | src.backend.DeckManagement.DeckController:load_page:671 - Loading page start on deck CL01M3A00214
+2025-04-02 15:48:09.840 | INFO     | src.backend.DeckManagement.DeckController:load_page:702 - Loaded page start on deck CL01M3A00214
+2025-04-02 15:48:09.869 | INFO     | src.backend.DeckManagement.DeckController:load_background:523 - Loading background in thread: 140401860138688
+2025-04-02 15:48:09.894 | INFO     | src.backend.DeckManagement.DeckController:load_all_inputs:609 - Loading all inputs took 0.0029931068420410156 seconds
+2025-04-02 15:48:09.901 | DEBUG    | src.backend.DeckManagement.DeckController:update_all_inputs:441 - Updating all inputs took 0.007244586944580078 seconds
+2025-04-02 15:48:09.919 | TRACE    | src.app:on_activate:80 - running: on_activate
+2025-04-02 15:48:09.920 | TRACE    | src.windows.mainWindow.mainWindow:build:93 - Building main window
+2025-04-02 15:48:09.956 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-02 15:48:10.078 | SUCCESS  | src.app:on_activate:112 - Finished loading app
+2025-04-02 15:48:10.162 | INFO     | src.backend.Store.StoreBackend:get_stores:74 - Official store branch: main
+2025-04-02 15:48:10.294 | INFO     | __main__:update_assets:183 - Updating 0 store assets took 0.8787922859191895 seconds
+2025-04-02 15:49:06.104 | INFO     | src.app:on_quit:165 - Quitting...
+2025-04-02 15:49:06.305 | DEBUG    | src.app:on_quit:183 - non-daemon threads:
+2025-04-02 15:49:06.305 | DEBUG    | src.app:on_quit:187 - name: MainThread, id: 140404392094656 id2: 73603
+2025-04-02 15:49:06.305 | DEBUG    | src.app:on_quit:187 - name: tick_actions, id: 140401868531392 id2: 73681
+2025-04-02 15:49:06.305 | DEBUG    | src.app:on_quit:187 - name: tick_actions, id: 140401826567872 id2: 73693
+2025-04-02 15:49:06.305 | INFO     | src.backend.DeckManagement.DeckManager:close_all:200 - Closing all decks
+2025-04-02 15:49:06.306 | INFO     | src.backend.DeckManagement.DeckManager:close_all:207 - Closing deck: AL42K2C50213
+2025-04-02 15:49:06.361 | INFO     | src.backend.DeckManagement.DeckManager:close_all:207 - Closing deck: CL01M3A00214
+2025-04-02 15:49:06.447 | SUCCESS  | src.app:on_quit:197 - Stopped StreamController. Have a nice day!

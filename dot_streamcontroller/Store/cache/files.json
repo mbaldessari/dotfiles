@@ -1,462 +1,450 @@
 {
     "StreamController::StreamController-Store::1.5.0::text::OfficialAuthors.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::1.5.0::text::OfficialAuthors.json",
-        "date": 1745682372.504077
+        "date": 1746592553.8732226
     },
     "StreamController::StreamController-Store::versions::text::versions.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::versions::text::versions.json",
-        "date": 1745682373.2069783
+        "date": 1746592554.856289
     },
     "StreamController::StreamController-Store::main::text::Plugins.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::main::text::Plugins.json",
-        "date": 1745682373.4132736
+        "date": 1746592554.88613
     },
     "StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::manifest.json",
-        "date": 1745682373.4148676
+        "date": 1746592554.8877873
     },
     "StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::store/Thumbnail.png",
-        "date": 1745682373.4226217
+        "date": 1746592554.8886507
     },
     "StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MediaPlugin::a5482474e89a627aeaad46ac53d2cdc853559095::text::attribution.json",
-        "date": 1745682373.4234207
+        "date": 1746592554.8965664
     },
     "StreamController::OBSPlugin::bd2cfc343ed55f53612d9ccc83f0a8fbe91e779a::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OBSPlugin::bd2cfc343ed55f53612d9ccc83f0a8fbe91e779a::text::manifest.json",
-        "date": 1745682373.424219
+        "date": 1746592554.8982627
     },
     "StreamController::OBSPlugin::bd2cfc343ed55f53612d9ccc83f0a8fbe91e779a::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OBSPlugin::bd2cfc343ed55f53612d9ccc83f0a8fbe91e779a::text::store/Thumbnail.png",
-        "date": 1745682373.4248264
+        "date": 1746592554.899709
     },
     "StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::manifest.json",
-        "date": 1745682373.6030777
+        "date": 1746592555.1290798
     },
     "StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::store/Thumbnail.png",
-        "date": 1745682373.6037388
+        "date": 1746592555.1299882
     },
     "StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::DeckPlugin::dd053be1d541034d53b7bebf87125979fd7cdc0c::text::attribution.json",
-        "date": 1745682373.6124275
+        "date": 1746592555.1324022
+    },
+    "StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::manifest.json",
+        "date": 1746592555.1440356
+    },
+    "StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::store/Thumbnail.png",
+        "date": 1746592555.14964
+    },
+    "StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::65223b6a525b3be6d9d2f95cfe5175e3e291584a::text::attribution.json",
+        "date": 1746592555.1512647
     },
     "StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::manifest.json",
-        "date": 1745682373.6150985
+        "date": 1746592555.1537595
     },
     "StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::store/Thumbnail.png",
-        "date": 1745682373.6156292
+        "date": 1746592555.154989
     },
     "StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Requests::bfe1fa16fa3e8a2162774f6771ed1ec218af392b::text::attribution.json",
-        "date": 1745682373.6162746
+        "date": 1746592555.1571639
     },
     "StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::manifest.json",
-        "date": 1745682373.6172457
+        "date": 1746592555.1611726
     },
     "StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::store/Thumbnail.png",
-        "date": 1745682373.617818
+        "date": 1746592555.1627994
     },
     "StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Clocks::382410fe55646e76420d5eea7598e405e69d7f3e::text::attribution.json",
-        "date": 1745682373.618524
+        "date": 1746592555.1647708
     },
     "StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::manifest.json",
-        "date": 1745682373.6191924
+        "date": 1746592555.1663554
     },
     "StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::store/Thumbnail.png",
-        "date": 1745682373.6197271
+        "date": 1746592555.1673386
     },
     "StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Weather::99f0f4abe4f24b587c55dca9953059b608d20b41::text::attribution.json",
-        "date": 1745682373.6203737
+        "date": 1746592555.1717107
     },
     "StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::manifest.json",
-        "date": 1745682373.6210217
+        "date": 1746592555.1734939
     },
     "StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::store/Thumbnail.png",
-        "date": 1745682373.6215281
+        "date": 1746592555.1755648
     },
     "StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Counter::685b21c92ed799e67d385f7e16d211aef3d952d9::text::attribution.json",
-        "date": 1745682373.6223705
+        "date": 1746592555.176726
     },
     "StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::manifest.json",
-        "date": 1745682373.6229565
+        "date": 1746592555.1775959
     },
     "StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::store/Thumbnail.png",
-        "date": 1745682373.6234205
+        "date": 1746592555.179382
     },
     "StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::VolumeMixer::d86db67804d59378562d93a8171280db756c2000::text::attribution.json",
-        "date": 1745682373.6239998
+        "date": 1746592555.1815505
     },
     "StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::manifest.json",
-        "date": 1745682373.6245823
+        "date": 1746592555.183044
     },
     "StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::store/Thumbnail.png",
-        "date": 1745682373.6250532
+        "date": 1746592555.1843104
     },
     "StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Speedtest::2d7794259903f4c85827c2c0a2b6cb044ace3efa::text::attribution.json",
-        "date": 1745682373.625644
+        "date": 1746592555.1863222
     },
     "StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::manifest.json",
-        "date": 1745682373.626192
+        "date": 1746592555.1880014
     },
     "StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::store/Thumbnail.png",
-        "date": 1745682373.6267884
+        "date": 1746592555.1898005
     },
     "StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::GnomeWindowCalls::a8846468adbc2d3f27775da63b92560c07d85155::text::attribution.json",
-        "date": 1745682373.627527
+        "date": 1746592555.1925712
     },
     "StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::manifest.json",
-        "date": 1745682373.6282005
+        "date": 1746592555.1980627
     },
     "StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::store/Thumbnail.png",
-        "date": 1745682373.6288474
+        "date": 1746592555.1997163
     },
     "StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::MicMute::c78789dc79f4eafd23584e7a4cab83436fd132de::text::attribution.json",
-        "date": 1745682373.629505
+        "date": 1746592555.2023299
     },
     "StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::manifest.json",
-        "date": 1745682373.6301527
+        "date": 1746592555.2047598
     },
     "StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::store/Thumbnail.png",
-        "date": 1745682373.6306849
+        "date": 1746592555.2068942
     },
     "StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Battery::e6e8ed12c24780f7c735f45f5c1c3de314725192::text::attribution.json",
-        "date": 1745682373.6313088
+        "date": 1746592555.20849
     },
     "StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::manifest.json",
-        "date": 1745682373.6319065
+        "date": 1746592555.2098272
     },
     "StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::store/Thumbnail.png",
-        "date": 1745682373.632392
+        "date": 1746592555.21153
     },
     "StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::AudioSwitcher::81b29136a099c08c1618c0e1cf1bbc4a84841a53::text::attribution.json",
-        "date": 1745682373.6329901
+        "date": 1746592555.2159226
     },
     "StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::manifest.json",
-        "date": 1745682373.6335268
+        "date": 1746592555.2179403
     },
     "StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::store/Thumbnail.png",
-        "date": 1745682373.6339817
+        "date": 1746592555.2194593
     },
     "StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Pi-hole::8f51549c6acde3c572f53151805fd5e4057d0bb8::text::attribution.json",
-        "date": 1745682373.6345434
+        "date": 1746592555.2214804
     },
     "G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::manifest.json",
-        "date": 1745682373.6351128
+        "date": 1746592555.2231865
     },
     "G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::store/Thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::store/Thumbnail.png",
-        "date": 1745682373.6355734
+        "date": 1746592555.2246687
     },
     "G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::AudioControl::fa392249012c37cf583789d56ac0ca0dbfaa6535::text::attribution.json",
-        "date": 1745682373.6361704
+        "date": 1746592555.22635
     },
     "jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::manifest.json",
-        "date": 1745682373.636694
+        "date": 1746592555.2280166
     },
     "jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::store/thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::store/thumbnail.png",
-        "date": 1745682373.6371474
+        "date": 1746592555.2303977
     },
     "jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/jslay88::streamcontroller_helldivers_2::c18c87df83c830394c1ebd6967581080ff0bc462::text::attribution.json",
-        "date": 1745682373.6377406
+        "date": 1746592555.2329502
     },
     "gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::manifest.json",
-        "date": 1745682373.638273
+        "date": 1746592555.235704
     },
     "gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::assets/homeassistant.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::assets/homeassistant.png",
-        "date": 1745682373.638742
+        "date": 1746592555.237594
     },
     "gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/gensyn::de_gensyn_HomeAssistantPlugin::2309be93af18d615f6756aafd132c0d16ea31969::text::attribution.json",
-        "date": 1745682373.639285
-    },
-    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::manifest.json",
-        "date": 1745682373.641285
-    },
-    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::store/Thumbnail.png",
-        "date": 1745682373.6417482
-    },
-    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::attribution.json",
-        "date": 1745682373.6423287
-    },
-    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::manifest.json",
-        "date": 1745682373.6428373
-    },
-    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::assets/xivdeck_store_banner.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::assets/xivdeck_store_banner.png",
-        "date": 1745682373.643295
-    },
-    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::attribution.json",
-        "date": 1745682373.6437988
-    },
-    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::manifest.json",
-        "date": 1745682373.6444345
-    },
-    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::store/thumbnail.png",
-        "date": 1745682373.6448941
-    },
-    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::attribution.json",
-        "date": 1745682373.6454334
-    },
-    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::manifest.json",
-        "date": 1745682373.647476
-    },
-    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::store/Thumbnail.png",
-        "date": 1745682373.6479387
-    },
-    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::attribution.json",
-        "date": 1745682373.6484718
-    },
-    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::manifest.json",
-        "date": 1745682373.6489747
-    },
-    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::store/Thumbnail.png",
-        "date": 1745682373.6494343
-    },
-    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::attribution.json",
-        "date": 1745682373.6499124
-    },
-    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::manifest.json",
-        "date": 1745682373.6504123
-    },
-    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::store/thumbnail.png",
-        "date": 1745682373.6508715
-    },
-    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::attribution.json",
-        "date": 1745682373.6513777
-    },
-    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::manifest.json",
-        "date": 1745682373.6519122
-    },
-    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::store/thumbnail.png",
-        "date": 1745682373.6523662
-    },
-    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::attribution.json",
-        "date": 1745682373.6529672
-    },
-    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::manifest.json",
-        "date": 1745682373.6535003
-    },
-    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::store/thumbnail.png",
-        "date": 1745682373.6539567
-    },
-    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::attribution.json",
-        "date": 1745682373.6544588
-    },
-    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::manifest.json",
-        "date": 1745682373.6549695
-    },
-    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::store/Thumbnail.png",
-        "date": 1745682373.6554468
-    },
-    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::attribution.json",
-        "date": 1745682373.6560287
-    },
-    "StreamController::StreamController-Store::main::text::Icons.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::main::text::Icons.json",
-        "date": 1745682373.828223
-    },
-    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::manifest.json",
-        "date": 1745682373.8293552
-    },
-    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::attribution.json",
-        "date": 1745682373.8373191
-    },
-    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::store/Thumbnail.png",
-        "date": 1745682373.8378708
-    },
-    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::manifest.json",
-        "date": 1745682373.8385408
-    },
-    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::attribution.json",
-        "date": 1745682373.8390822
-    },
-    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::store/Thumbnail.png",
-        "date": 1745682373.8396142
-    },
-    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::manifest.json",
-        "date": 1745682373.8402832
-    },
-    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::attribution.json",
-        "date": 1745682373.8408303
-    },
-    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::store/Thumbnail.png",
-        "date": 1745682373.8413472
-    },
-    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::manifest.json",
-        "date": 1745682373.8419666
-    },
-    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::attribution.json",
-        "date": 1745682373.8424761
-    },
-    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::store/Thumbnail.png",
-        "date": 1745682373.8429456
-    },
-    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::manifest.json",
-        "date": 1745682373.8435001
-    },
-    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::attribution.json",
-        "date": 1745682373.8439686
-    },
-    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::store/Thumbnail.svg": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::store/Thumbnail.svg",
-        "date": 1745682373.8444247
-    },
-    "StreamController::StreamController-Store::main::text::Wallpapers.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::main::text::Wallpapers.json",
-        "date": 1745682374.0577042
-    },
-    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::manifest.json",
-        "date": 1745682374.0586417
-    },
-    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::store/thumbnail.png",
-        "date": 1745682374.0668542
-    },
-    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::attribution.json",
-        "date": 1745682374.0674877
-    },
-    "StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::manifest.json",
-        "date": 1745469990.8009727
-    },
-    "StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::store/Thumbnail.png",
-        "date": 1745469990.8022997
-    },
-    "StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::921eb831a719e54e2e48181647d24ed9e95786a6::text::attribution.json",
-        "date": 1745469990.8045635
+        "date": 1746592555.241294
     },
     "ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::manifest.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::manifest.json",
-        "date": 1745682373.639824
+        "date": 1746592555.2432024
     },
     "ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::store/thumbnail.png": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::store/thumbnail.png",
-        "date": 1745682373.6402755
+        "date": 1746592555.245327
     },
     "ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::attribution.json": {
         "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerTwitchPlugin::59bb71a5107a9675aadcce8ca91388514e237629::text::attribution.json",
-        "date": 1745682373.6407793
+        "date": 1746592555.2474062
     },
-    "ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::manifest.json",
-        "date": 1745682373.6459534
+    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::manifest.json",
+        "date": 1746592555.2495947
     },
-    "ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::store/thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::store/thumbnail.png",
-        "date": 1745682373.6464112
+    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::store/Thumbnail.png",
+        "date": 1746592555.251093
     },
-    "ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::ee90b8aee6274f5c291021893ab801fff88854e2::text::attribution.json",
-        "date": 1745682373.646968
+    "StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::Countdown::37e5936171fb836fa32a79b69c9a610db7a43663::text::attribution.json",
+        "date": 1746592555.2530859
     },
-    "StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::manifest.json",
-        "date": 1745611379.688005
+    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::manifest.json",
+        "date": 1746592555.2548728
     },
-    "StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::store/Thumbnail.png",
-        "date": 1745611379.688682
+    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::assets/xivdeck_store_banner.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::assets/xivdeck_store_banner.png",
+        "date": 1746592555.258692
     },
-    "StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::77cd5126f2e3bb17d20a5e33540ebb44cea22ed0::text::attribution.json",
-        "date": 1745611379.6896825
+    "SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/SilentSwordmaiden::StreamController-XIVDeck-Plugin::ccefae9878a0d0547d14aedbb2c0521d5573ec10::text::attribution.json",
+        "date": 1746592555.2613182
     },
-    "StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::manifest.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::manifest.json",
-        "date": 1745682373.6132083
+    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::manifest.json",
+        "date": 1746592555.2640452
     },
-    "StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::store/Thumbnail.png": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::store/Thumbnail.png",
-        "date": 1745682373.6137857
+    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::store/thumbnail.png",
+        "date": 1746592555.266857
     },
-    "StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::attribution.json": {
-        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::OSPlugin::3e40640d0772c326178c61a3810813604e228267::text::attribution.json",
-        "date": 1745682373.6144469
+    "pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/pniedzielski::StreamController-OBSLiveSplitOnePlugin::9cbb36ea809d47fb74049ed3eabd3b00fc2f000a::text::attribution.json",
+        "date": 1746592555.2690687
+    },
+    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::manifest.json",
+        "date": 1746592555.2734199
+    },
+    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::store/Thumbnail.png",
+        "date": 1746592555.2750044
+    },
+    "dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/dehnhardt::StreamController-MixbusPlugin::c451f88f7e919601080a8177ea632143f5301203::text::attribution.json",
+        "date": 1746592555.277
+    },
+    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::manifest.json",
+        "date": 1746592555.2782364
+    },
+    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::store/Thumbnail.png",
+        "date": 1746592555.2798188
+    },
+    "cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/cozybuild::StreamControllerElgatoKeyLight::1ea07125f182edced672671d31ac7de1dbec8c8e::text::attribution.json",
+        "date": 1746592555.2816687
+    },
+    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::manifest.json",
+        "date": 1746592555.28249
+    },
+    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::store/thumbnail.png",
+        "date": 1746592555.2864695
+    },
+    "eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_WebSocket::d5539465a9b4b472622dcba6bcdf3292003f9800::text::attribution.json",
+        "date": 1746592555.2872355
+    },
+    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::manifest.json",
+        "date": 1746592555.2885468
+    },
+    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::store/thumbnail.png",
+        "date": 1746592555.289285
+    },
+    "eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/eumario::StreamController_MangoHud::8f5187693ba8d144fa26ed25004f7839ddee1a23::text::attribution.json",
+        "date": 1746592555.2903807
+    },
+    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::manifest.json",
+        "date": 1746592555.2911167
+    },
+    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::store/thumbnail.png",
+        "date": 1746592555.2919831
+    },
+    "Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Kekemui::VeadoSC::0791541cc0ff7ec2d3a86d85d494d3d83aab4d60::text::attribution.json",
+        "date": 1746592555.292831
+    },
+    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::manifest.json",
+        "date": 1746592555.2938142
+    },
+    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::store/Thumbnail.png",
+        "date": 1746592555.29449
+    },
+    "StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::QEMUPlugin::738fe43b2a02d5902f815bec042de59dc199e949::text::attribution.json",
+        "date": 1746592555.2991025
+    },
+    "StreamController::StreamController-Store::main::text::Icons.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::main::text::Icons.json",
+        "date": 1746592556.096705
+    },
+    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::manifest.json",
+        "date": 1746592556.0979733
+    },
+    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::attribution.json",
+        "date": 1746592556.0990238
+    },
+    "Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Material-Icons::61eff8c76f21347f215032800e65f66d536e71d9::text::store/Thumbnail.png",
+        "date": 1746592556.0996408
+    },
+    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::manifest.json",
+        "date": 1746592556.101222
+    },
+    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::attribution.json",
+        "date": 1746592556.102532
+    },
+    "G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/G4PLS::VolumeIcons::d0ae8f6a4fe54ab4914d22ef628d2517babb5a5c::text::store/Thumbnail.png",
+        "date": 1746592556.103162
+    },
+    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::manifest.json",
+        "date": 1746592556.1052039
+    },
+    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::attribution.json",
+        "date": 1746592556.1060543
+    },
+    "axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/axolotlmaid::StreamController-FontAwesome-Icons::732d9249a7c3ea1652c2ced38b40aa204448ba85::text::store/Thumbnail.png",
+        "date": 1746592556.106667
+    },
+    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::manifest.json",
+        "date": 1746592556.108423
+    },
+    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::attribution.json",
+        "date": 1746592556.1097023
+    },
+    "fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/fishgrind::tabler-streamcontroller-icons::88eff87418a05844e431f91c21b1e68a92c2834c::text::store/Thumbnail.png",
+        "date": 1746592556.1112556
+    },
+    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::manifest.json",
+        "date": 1746592556.1121566
+    },
+    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::attribution.json",
+        "date": 1746592556.1146834
+    },
+    "MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::store/Thumbnail.svg": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/MyrikLD::streamcontroller_simple_icons::f38a78fa393167e012e5908fefee705fe35d10ec::text::store/Thumbnail.svg",
+        "date": 1746592556.1153603
+    },
+    "StreamController::StreamController-Store::main::text::Wallpapers.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/StreamController::StreamController-Store::main::text::Wallpapers.json",
+        "date": 1746592556.1771817
+    },
+    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::manifest.json",
+        "date": 1746592556.1783712
+    },
+    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::store/thumbnail.png",
+        "date": 1746592556.1790867
+    },
+    "Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/Core447::Pixabay-Favorites::5d2c7675aaf847fd878b5487a373290289b3b145::text::attribution.json",
+        "date": 1746592556.1801996
+    },
+    "ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::manifest.json",
+        "date": 1746592555.2706182
+    },
+    "ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::store/thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::store/thumbnail.png",
+        "date": 1746592555.2715893
+    },
+    "ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ImDevinC::StreamControllerDiscordPlugin::056fcc01064481b3573d9ef639916ac28e8edb47::text::attribution.json",
+        "date": 1746592555.2725713
+    },
+    "ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::manifest.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::manifest.json",
+        "date": 1746592555.4962606
+    },
+    "ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::store/Thumbnail.png": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::store/Thumbnail.png",
+        "date": 1746592555.6900387
+    },
+    "ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::attribution.json": {
+        "path": "/home/michele/.streamcontroller/Store/cache/files/ReneLu::SpotifyControl::dd2e813ca425c361b547334576ff54d6ba6c249b::text::attribution.json",
+        "date": 1746592555.9074857
     }
 }

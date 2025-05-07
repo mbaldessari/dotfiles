@@ -1,0 +1,11 @@
+{
+    "plugin.name": "Deck",
+    "actions.change-page.name": "Changer La Page",
+    "actions.go-to-sleep.name": "Activer Le Mode Veille",
+    "actions.set-brightness.name": "Régler La Luminosité",
+    "actions.revert-brightness.name": "Rétablir La Luminosité",
+    "actions.adjust-brightness.name": "Changer La Luminosité",
+    "actions.change-page.drop-down-label": "Page:",
+    "actions.set-brightness.label": "Luminosité:",
+    "actions.change.page.deck-drop-down-label": "Deck:"
+}
