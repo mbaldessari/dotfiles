@@ -67,9 +67,8 @@ HIST_STAMPS="yyyy-mm-dd"
 plugins=(
   colored-man-pages
 	colorize
-	copyzshell
 	emoji
-	fz
+	fzf
 	git
 	git-prompt
 	git-extras
